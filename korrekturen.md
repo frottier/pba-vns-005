@@ -26,6 +26,10 @@ Das Ziel der Korrektur ist lediglich die Behebung der Mängel in der Texterkennu
 
 Was hier nicht zu tun ist: Korrekturschritte, die später viel effizienter mittels teilautomatischer Ersetzungen über den gesamtem Korpus durchgeführt werden können. Dazu zählen z.B. die Ersetzung von Minuszeichen durch Gedankenstriche, von Anführungszeichen durch ihre typographisch korrekten Pendants oder die Korrektur der teilweise als Trennungszeichen verwendeten Gleichheitszeichen. Auch regelmäßig falsch gesetzte Leerzeichen sind später mittels regulärer Ausdrücke sehr viel schneller zu korrigieren als in Handarbeit.
 
+edit Heidi:
+Offensichtliche Tippfehler in den Abschriften werden stillschweigend korrigiert.
+Offensichtliche Kommafehler in den Abschriften werden stillschweigend korrigiert.
+Offensichtlich fehlende Worte werden in eckigen Klammern ergänzt, z.B. [ist].
 
 
 
