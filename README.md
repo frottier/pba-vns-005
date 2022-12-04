@@ -7,7 +7,7 @@ In diesem Repo werden schreibmaschinengetippte Texte nach einer OCR korrigiert. 
 Inhalt
 
 [Struktur des Inhalts](inhalt.md)  
-[Notizen zum Workflow](workflow.md)
+[Notizen zum Workflow](workflow/workflow.md)
 
 
 Die hier bearbeiteten Texte unterliegen dem Copyright.
