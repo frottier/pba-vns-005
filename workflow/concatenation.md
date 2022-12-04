@@ -9,5 +9,6 @@ So entstehen mehrere Texte, die nicht mehr Repräsentationen der gescannten Vorl
 * Vereinheitlichung. Je nach Schreiber weisen die Transkripte unterschiedliche eigenheiten auf, die nun vereinheitlicht werden müssen.
     - Gedankenstriche markieren Einschübe. Sie dürfen nicht isoliert stehen. Sie sollten über den gesamten Text einigermaßen einheitlich verwendet werden.
     - Anführungszeichen: einfache Anführungszeichen nur innerhalb von Zitaten, sonst doppelte Anführungszeichen. Wann werden sie verwendet? Nur zur Markierung von Zitaten? Literaturtitel sollten anders markiert werden, zB durch Kursivsatz (was Markdown erfordert — 'Ulysses' --> _Ulysses_).
+    - Varianten in der Schreibung von Namen: zB Erynien oder Erynnien?
 
 
