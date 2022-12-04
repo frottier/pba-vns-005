@@ -14,7 +14,7 @@ Die dafür eingesetzte Open Source Software _ScanTailor Advanced_ bietet dafür 
 
 __Beispiel: VNS-005_004__
 
-<img src="res/before_after_ST_small.jpg" width="50%" height="50%">
+<img src="../res/before_after_ST_small.jpg" width="50%" height="50%">
 
 Die gescannte Seite vor und nach der Aufbereitung mit _ScanTailor_.
 
