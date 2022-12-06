@@ -1,0 +1,1645 @@
+<project version="3" layoutDirection="LTR" outputDirectory="[DURCH ZIELPFAD ERSETZEN]/pba-vns-005/03">
+  <directories>
+    <directory id="1" path="[DURCH QUELLPFAD ERSETZEN]/VNS-005"/>
+  </directories>
+  <files>
+    <file dirId="1" id="2" name="VNS-005_018.tif"/>
+    <file dirId="1" id="5" name="VNS-005_019.tif"/>
+    <file dirId="1" id="8" name="VNS-005_020.tif"/>
+    <file dirId="1" id="11" name="VNS-005_021.tif"/>
+    <file dirId="1" id="14" name="VNS-005_022.tif"/>
+    <file dirId="1" id="17" name="VNS-005_023.tif"/>
+    <file dirId="1" id="20" name="VNS-005_024.tif"/>
+    <file dirId="1" id="23" name="VNS-005_025.tif"/>
+  </files>
+  <images>
+    <image fileId="2" id="3" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="5" id="6" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="8" id="9" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="11" id="12" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="14" id="15" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="17" id="18" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="20" id="21" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image fileId="23" id="24" subPages="1" fileImage="0">
+      <size height="3507" width="2480"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+  </images>
+  <pages>
+    <page id="4" subPage="single" imageId="3"/>
+    <page id="7" subPage="single" imageId="6"/>
+    <page id="10" subPage="single" imageId="9"/>
+    <page id="13" subPage="single" imageId="12"/>
+    <page id="16" subPage="single" imageId="15" selected="selected"/>
+    <page id="19" subPage="single" imageId="18"/>
+    <page id="22" subPage="single" imageId="21"/>
+    <page id="25" subPage="single" imageId="24"/>
+  </pages>
+  <file-name-disambiguation>
+    <mapping file="2" label="0"/>
+    <mapping file="5" label="0"/>
+    <mapping file="8" label="0"/>
+    <mapping file="11" label="0"/>
+    <mapping file="14" label="0"/>
+    <mapping file="17" label="0"/>
+    <mapping file="20" label="0"/>
+    <mapping file="23" label="0"/>
+  </file-name-disambiguation>
+  <filters>
+    <fix-orientation>
+      <image-settings>
+        <page id="4">
+          <image-params bwThreshold="136" blackOnWhite="1"/>
+        </page>
+        <page id="7">
+          <image-params bwThreshold="141" blackOnWhite="1"/>
+        </page>
+        <page id="10">
+          <image-params bwThreshold="135" blackOnWhite="1"/>
+        </page>
+        <page id="13">
+          <image-params bwThreshold="139" blackOnWhite="1"/>
+        </page>
+        <page id="16">
+          <image-params bwThreshold="133" blackOnWhite="1"/>
+        </page>
+        <page id="19">
+          <image-params bwThreshold="140" blackOnWhite="1"/>
+        </page>
+        <page id="22">
+          <image-params bwThreshold="134" blackOnWhite="1"/>
+        </page>
+        <page id="25">
+          <image-params bwThreshold="137" blackOnWhite="1"/>
+        </page>
+      </image-settings>
+    </fix-orientation>
+    <page-split defaultLayoutType="auto-detect">
+      <image id="3" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="6" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="9" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="12" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="15" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="18" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="21" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="24" layoutType="single-uncut">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size height="3507" width="2480"/>
+            <layoutType>single-uncut</layoutType>
+          </dependencies>
+        </params>
+      </image>
+    </page-split>
+    <deskew>
+      <page id="4">
+        <params angle="-0.25" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="7">
+        <params angle="0.375" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="10">
+        <params angle="-0.8125" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="13">
+        <params angle="0.875" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="16">
+        <params angle="-1.25" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="19">
+        <params angle="0.1875" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="22">
+        <params angle="-0.625" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="25">
+        <params angle="-0.125" mode="auto">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2480" y="0"/>
+              <point x="2480" y="3507"/>
+              <point x="0" y="3507"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <image-settings>
+        <page id="4">
+          <image-params bwThreshold="136" blackOnWhite="1"/>
+        </page>
+        <page id="7">
+          <image-params bwThreshold="141" blackOnWhite="1"/>
+        </page>
+        <page id="10">
+          <image-params bwThreshold="135" blackOnWhite="1"/>
+        </page>
+        <page id="13">
+          <image-params bwThreshold="139" blackOnWhite="1"/>
+        </page>
+        <page id="16">
+          <image-params bwThreshold="133" blackOnWhite="1"/>
+        </page>
+        <page id="19">
+          <image-params bwThreshold="140" blackOnWhite="1"/>
+        </page>
+        <page id="22">
+          <image-params bwThreshold="134" blackOnWhite="1"/>
+        </page>
+        <page id="25">
+          <image-params bwThreshold="137" blackOnWhite="1"/>
+        </page>
+      </image-settings>
+    </deskew>
+    <select-content pageDetectionTolerance="0.1">
+      <page id="4">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="229.5929211284276" y="159.8716817789504" height="3043.546459196835" width="2119.073007699995"/>
+          <page-rect x="0" y="0" height="3517.787622913787" width="2495.278517849028"/>
+          <content-size-mm height="257.6874489202299" width="179.4152068156799"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="10.8210070261715"/>
+              <point x="2479.976392187421" y="0"/>
+              <point x="2495.278517849028" y="3506.966615887616"/>
+              <point x="15.30212566160622" y="3517.787622913787"/>
+              <point x="0" y="10.8210070261715"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="7">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="239.5129835379294" y="178.1595124344818" height="3080.083995796548" width="2155.939586689662"/>
+          <page-rect x="0" y="0" height="3523.156332055134" width="2502.899979978543"/>
+          <content-size-mm height="260.7809665393741" width="182.5365834128915"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="22.95309745150297" y="0"/>
+              <point x="2502.899979978543" y="16.23144615903261"/>
+              <point x="2479.946882527041" y="3523.156332055134"/>
+              <point x="0" y="3506.924885896101"/>
+              <point x="22.95309745150297" y="0"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="10">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="235.888303869322" y="186" height="3026.390936457372" width="2106.156214767733"/>
+          <page-rect x="0" y="0" height="3541.814591403915" width="2529.481045671852"/>
+          <content-size-mm height="256.2349450899478" width="178.3215828268337"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="35.1672057412779"/>
+              <point x="2479.750646262715" y="0"/>
+              <point x="2529.481045671852" y="3506.647385662637"/>
+              <point x="49.73039940913775" y="3541.814591403915"/>
+              <point x="0" y="35.1672057412779"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="13">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="266" y="156" height="3083.295232442815" width="2084"/>
+          <page-rect x="0" y="0" height="3544.463224542309" width="2533.266337432426"/>
+          <content-size-mm height="261.052851785862" width="176.4456862247058"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="53.55552797478752" y="0"/>
+              <point x="2533.266337432426" y="37.8721726197528"/>
+              <point x="2479.710809457639" y="3544.463224542309"/>
+              <point x="0" y="3506.591051922556"/>
+              <point x="53.55552797478752" y="0"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="16">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="228.0167966293498" y="172" height="3175.899220223898" width="2135.815237077148"/>
+          <page-rect x="0" y="0" height="3560.266343854953" width="2555.914628974381"/>
+          <content-size-mm height="268.8933384323003" width="180.8327184046354"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="54.10091488571158"/>
+              <point x="2479.409827158175" y="0"/>
+              <point x="2555.914628974381" y="3506.165428969241"/>
+              <point x="76.50480181620586" y="3560.266343854953"/>
+              <point x="0" y="54.10091488571158"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="19">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="214" y="126" height="3018.264918532245" width="2100"/>
+          <page-rect x="0" y="0" height="3515.096987959936" width="2491.463330774596"/>
+          <content-size-mm height="255.5469408629452" width="177.8003556007112"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.47661017838888" y="0"/>
+              <point x="2491.463330774596" y="8.115766536186031"/>
+              <point x="2479.986720596207" y="3515.096987959936"/>
+              <point x="0" y="3506.98122142375"/>
+              <point x="11.47661017838888" y="0"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="22">
+        <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="254" y="166" height="2902" width="2178.087230638027"/>
+          <page-rect x="0" y="0" height="3533.843417941097" width="2518.107129270469"/>
+          <content-size-mm height="245.7031580729829" width="184.4117543508616"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="27.05206690557229"/>
+              <point x="2479.852452400371" y="0"/>
+              <point x="2518.107129270469" y="3506.791351035525"/>
+              <point x="38.25467687009758" y="3533.843417941097"/>
+              <point x="0" y="27.05206690557229"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="manual" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+      <page id="25">
+        <params contentDetectionMode="auto" fineTuneCorners="0" pageDetectionMode="disabled">
+          <content-rect x="272" y="384" height="334" width="2052"/>
+          <page-rect x="0" y="0" height="3512.402170351128" width="2487.645179078851"/>
+          <content-size-mm height="28.27872322411312" width="173.736347472695"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="5.410516389155188"/>
+              <point x="2479.994098039832" y="0"/>
+              <point x="2487.645179078851" y="3506.991653961973"/>
+              <point x="7.651081039019052" y="3512.402170351128"/>
+              <point x="0" y="5.410516389155188"/>
+            </rotated-page-outline>
+            <params contentDetectionMode="auto" fineTuneCorners="0" pageDetectionMode="disabled"/>
+          </dependencies>
+        </params>
+      </page>
+    </select-content>
+    <page-layout showMiddleRect="1">
+      <page id="4">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3517.787622913787" width="2495.278517849028"/>
+          <contentRect x="229.5929211284276" y="159.8716817789504" height="3043.546459196835" width="2119.073007699995"/>
+          <contentSizeMM height="257.6874489202298" width="179.4152068156799"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="7">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3523.156332055134" width="2502.899979978543"/>
+          <contentRect x="239.5129835379294" y="178.1595124344818" height="3080.083995796548" width="2155.939586689662"/>
+          <contentSizeMM height="260.7809665393741" width="182.5365834128915"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="10">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3541.814591403915" width="2529.481045671852"/>
+          <contentRect x="235.888303869322" y="186" height="3026.390936457372" width="2106.156214767733"/>
+          <contentSizeMM height="256.2349450899477" width="178.3215828268337"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="13">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3544.463224542309" width="2533.266337432426"/>
+          <contentRect x="266" y="156" height="3083.295232442815" width="2084"/>
+          <contentSizeMM height="261.052851785862" width="176.4456862247058"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="16">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3560.266343854953" width="2555.914628974381"/>
+          <contentRect x="228.0167966293498" y="172" height="3175.899220223898" width="2135.815237077148"/>
+          <contentSizeMM height="268.8933384323002" width="180.8327184046354"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="19">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3515.096987959936" width="2491.463330774596"/>
+          <contentRect x="214" y="126" height="3018.264918532245" width="2100"/>
+          <contentSizeMM height="255.5469408629452" width="177.8003556007112"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="22">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3533.843417941097" width="2518.107129270469"/>
+          <contentRect x="254" y="166" height="2902" width="2178.087230638027"/>
+          <contentSizeMM height="245.7031580729829" width="184.4117543508616"/>
+          <alignment vert="vcenter" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="25">
+        <params autoMargins="0">
+          <hardMarginsMM bottom="5" right="10" left="10" top="5"/>
+          <pageRect x="0" y="0" height="3512.402170351128" width="2487.645179078851"/>
+          <contentRect x="272" y="384" height="334" width="2052"/>
+          <contentSizeMM height="28.27872322411312" width="173.736347472695"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+    </page-layout>
+    <output>
+      <page id="4">
+        <zones/>
+        <fill-zones>
+          <zone>
+            <spline>
+              <point x="2314.025907630315" y="1219.92898281147"/>
+              <point x="2280.737476358527" y="1269.39263968353"/>
+              <point x="2300.320912630469" y="1329.008776257423"/>
+              <point x="2343.112452785536" y="1375.49713633685"/>
+              <point x="2396.143055418244" y="1349.270444273186"/>
+              <point x="2376.718354235283" y="1253.275135933796"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="2348.925133095841" y="2191.126051661493"/>
+              <point x="2319.042400809034" y="2206.196473473615"/>
+              <point x="2304.316823297215" y="2231.272022852605"/>
+              <point x="2303.614843267455" y="2258.162701798322"/>
+              <point x="2309.351505908515" y="2283.327535109677"/>
+              <point x="2339.114342629005" y="2295.734978645706"/>
+              <point x="2357.230388141637" y="2297.567964998904"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="212.6590318079165" y="1640.999672627034"/>
+              <point x="266.354091094293" y="1651.982559302832"/>
+              <point x="268.7767673186753" y="1665.222171882717"/>
+              <point x="244.5152396632303" y="1919.775361002755"/>
+              <point x="255.1910265402863" y="2043.592314243743"/>
+              <point x="244.6742619910995" y="2063.709135657112"/>
+              <point x="199.5435145378745" y="2049.606897306556"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="605.558944804623" y="1645.957568900464"/>
+              <point x="605.4186414823361" y="1678.11251771213"/>
+              <point x="639.0262504831143" y="1680.305422473446"/>
+              <point x="634.7639312718833" y="1652.223789421134"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="705.0358531827727" y="1624.546056815163"/>
+              <point x="691.1247335899384" y="1625.875889426732"/>
+              <point x="697.3213345172475" y="1639.808244437091"/>
+              <point x="708.4377923041075" y="1641.594914075626"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="629.6568792697949" y="1734.807485419885"/>
+              <point x="629.5734544152339" y="1753.926932374576"/>
+              <point x="637.8664309009079" y="1765.43500412029"/>
+              <point x="659.3015710342215" y="1752.666114869962"/>
+              <point x="658.17892151861" y="1731.10797490302"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="849.8665660863638" y="2318.652059543373"/>
+              <point x="849.0472414597807" y="2372.435968404301"/>
+              <point x="1058.341624513089" y="2374.518486349793"/>
+              <point x="1057.419797688335" y="2317.80374741568"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+        </fill-zones>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <distortion-model>
+            <top-curve>
+              <xspline>
+                <point x="184.1035543595417" y="-3.658753618375741"/>
+                <point x="1974.772815476177" y="-0.6308195893751337"/>
+                <point x="2049.384034689371" y="-0.5046556715000993"/>
+                <point x="2123.995253902563" y="-0.3784917536250801"/>
+                <point x="2198.606473115758" y="-0.2523278357500447"/>
+                <point x="2273.217692328948" y="-0.1261639178750316"/>
+                <point x="2347.828911542143" y="0"/>
+              </xspline>
+              <polyline>gxo4QwUpasBsGNNEO6aOvyUWAEUdMQG/7b8ERazJwb60aQlFHTGBvnwTDkUdMQG+Q70SRQAAAAA=</polyline>
+            </top-curve>
+            <bottom-curve>
+              <xspline>
+                <point x="215.8160762250087" y="3506"/>
+                <point x="1982.530664813342" y="3506"/>
+                <point x="2055.590314159102" y="3506"/>
+                <point x="2128.649963504863" y="3506"/>
+                <point x="2201.709612850623" y="3506"/>
+                <point x="2274.769262196383" y="3506"/>
+                <point x="2334.545907252053" y="3506"/>
+              </xspline>
+              <polyline>6tBXQwAgW0UoiNREACBbRXJ5AEUAIFtFZgoFRQAgW0VbmwlFACBbReMIDkUAIFtFvOgRRQAgW0U=</polyline>
+            </bottom-curve>
+          </distortion-model>
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="197" y="166" height="4059" width="2825"/>
+            <crop-area>
+              <point x="-109.3333333333339" y="-32.23865729843795"/>
+              <point x="3197.301856249913" y="-46.66666666666659"/>
+              <point x="3217.704690465388" y="4629.288821183481"/>
+              <point x="-88.93049911785886" y="4643.716830551709"/>
+              <point x="-109.3333333333339" y="-32.23865729843795"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9999904807207345</m11>
+              <m12>-0.004363309284746571</m12>
+              <m21>0.004363309284746571</m21>
+              <m22>0.9999904807207345</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <distortion-model>
+              <top-curve>
+                <xspline>
+                  <point x="184.1035543595417" y="-3.658753618375741"/>
+                  <point x="1974.772815476177" y="-0.6308195893751337"/>
+                  <point x="2049.384034689371" y="-0.5046556715000993"/>
+                  <point x="2123.995253902563" y="-0.3784917536250801"/>
+                  <point x="2198.606473115758" y="-0.2523278357500447"/>
+                  <point x="2273.217692328948" y="-0.1261639178750316"/>
+                  <point x="2347.828911542143" y="0"/>
+                </xspline>
+                <polyline>gxo4QwUpasBsGNNEO6aOvyUWAEUdMQG/7b8ERazJwb60aQlFHTGBvnwTDkUdMQG+Q70SRQAAAAA=</polyline>
+              </top-curve>
+              <bottom-curve>
+                <xspline>
+                  <point x="215.8160762250087" y="3506"/>
+                  <point x="1982.530664813342" y="3506"/>
+                  <point x="2055.590314159102" y="3506"/>
+                  <point x="2128.649963504863" y="3506"/>
+                  <point x="2201.709612850623" y="3506"/>
+                  <point x="2274.769262196383" y="3506"/>
+                  <point x="2334.545907252053" y="3506"/>
+                </xspline>
+                <polyline>6tBXQwAgW0UoiNREACBbRXJ5AEUAIFtFZgoFRQAgW0VbmwlFACBbReMIDkUAIFtFvOgRRQAgW0U=</polyline>
+              </bottom-curve>
+            </distortion-model>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="112814" mtime="1669672799"/>
+          <speckles size="1118" mtime="1669672799"/>
+          <zones/>
+          <fill-zones>
+            <zone>
+              <spline>
+                <point x="2314.025907630315" y="1219.92898281147"/>
+                <point x="2280.737476358527" y="1269.39263968353"/>
+                <point x="2300.320912630469" y="1329.008776257423"/>
+                <point x="2343.112452785536" y="1375.49713633685"/>
+                <point x="2396.143055418244" y="1349.270444273186"/>
+                <point x="2376.718354235283" y="1253.275135933796"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="2348.925133095841" y="2191.126051661493"/>
+                <point x="2319.042400809034" y="2206.196473473615"/>
+                <point x="2304.316823297215" y="2231.272022852605"/>
+                <point x="2303.614843267455" y="2258.162701798322"/>
+                <point x="2309.351505908515" y="2283.327535109677"/>
+                <point x="2339.114342629005" y="2295.734978645706"/>
+                <point x="2357.230388141637" y="2297.567964998904"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="212.6590318079165" y="1640.999672627034"/>
+                <point x="266.354091094293" y="1651.982559302832"/>
+                <point x="268.7767673186753" y="1665.222171882717"/>
+                <point x="244.5152396632303" y="1919.775361002755"/>
+                <point x="255.1910265402863" y="2043.592314243743"/>
+                <point x="244.6742619910995" y="2063.709135657112"/>
+                <point x="199.5435145378745" y="2049.606897306556"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="605.558944804623" y="1645.957568900464"/>
+                <point x="605.4186414823361" y="1678.11251771213"/>
+                <point x="639.0262504831143" y="1680.305422473446"/>
+                <point x="634.7639312718833" y="1652.223789421134"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="705.0358531827727" y="1624.546056815163"/>
+                <point x="691.1247335899384" y="1625.875889426732"/>
+                <point x="697.3213345172475" y="1639.808244437091"/>
+                <point x="708.4377923041075" y="1641.594914075626"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="629.6568792697949" y="1734.807485419885"/>
+                <point x="629.5734544152339" y="1753.926932374576"/>
+                <point x="637.8664309009079" y="1765.43500412029"/>
+                <point x="659.3015710342215" y="1752.666114869962"/>
+                <point x="658.17892151861" y="1731.10797490302"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="849.8665660863638" y="2318.652059543373"/>
+                <point x="849.0472414597807" y="2372.435968404301"/>
+                <point x="1058.341624513089" y="2374.518486349793"/>
+                <point x="1057.419797688335" y="2317.80374741568"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+          </fill-zones>
+        </output-params>
+      </page>
+      <page id="7">
+        <zones/>
+        <fill-zones>
+          <zone>
+            <spline>
+              <point x="2378.251942673819" y="2160.531968383113"/>
+              <point x="2311.160994269593" y="2521.466756908349"/>
+              <point x="2325.558489428115" y="2699.966710813401"/>
+              <point x="2329.882991088989" y="2855.381494980482"/>
+              <point x="2360.253490838607" y="2947.787110756653"/>
+              <point x="2472.480409488619" y="2913.979579278131"/>
+              <point x="2448.243402563022" y="2242.756362621153"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+        </fill-zones>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="173" y="143" height="4107" width="2874"/>
+            <crop-area>
+              <point x="-116.0625367313287" y="-94.66666666666613"/>
+              <point x="3190.53330663804" y="-73.02473845462278"/>
+              <point x="3159.929176702703" y="4602.875109406819"/>
+              <point x="-146.6666666666658" y="4581.233181194776"/>
+              <point x="-116.0625367313287" y="-94.66666666666613"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9999785816641292</m11>
+              <m12>0.006544937967351859</m12>
+              <m21>-0.006544937967351859</m21>
+              <m22>0.9999785816641292</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="116116" mtime="1669672589"/>
+          <speckles size="1308" mtime="1669672589"/>
+          <zones/>
+          <fill-zones>
+            <zone>
+              <spline>
+                <point x="2378.251942673819" y="2160.531968383113"/>
+                <point x="2311.160994269593" y="2521.466756908349"/>
+                <point x="2325.558489428115" y="2699.966710813401"/>
+                <point x="2329.882991088989" y="2855.381494980482"/>
+                <point x="2360.253490838607" y="2947.787110756653"/>
+                <point x="2472.480409488619" y="2913.979579278131"/>
+                <point x="2448.243402563022" y="2242.756362621153"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+          </fill-zones>
+        </output-params>
+      </page>
+      <page id="10">
+        <zones/>
+        <fill-zones>
+          <zone>
+            <spline>
+              <point x="2335.298685602253" y="1222.48365462402"/>
+              <point x="2261.843501369741" y="1271.05535366461"/>
+              <point x="2287.360720859021" y="1337.56846205846"/>
+              <point x="2336.354498124367" y="1381.261578803642"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="1430.189117683359" y="685.1259731823833"/>
+              <point x="1429.794846337028" y="698.3506276335248"/>
+              <point x="1430.07924003901" y="707.450454896664"/>
+              <point x="1431.216737726909" y="714.7018773369772"/>
+              <point x="1433.830313572161" y="719.9070072265959"/>
+              <point x="1471.865484225761" y="720.0329673542379"/>
+              <point x="1477.769719735146" y="682.6999105392166"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="664.4810449759557" y="1780.753510631294"/>
+              <point x="665.7088798044692" y="1841.264559300008"/>
+              <point x="1022.996759140632" y="1849.112843562392"/>
+              <point x="1024.470809615266" y="1794.202745536724"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="1352.203955251687" y="1743.494277289927"/>
+              <point x="1300.045037538355" y="1744.14523081103"/>
+              <point x="1298.16170878755" y="1778.884979280459"/>
+              <point x="1373.113989345566" y="1788.987212761929"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+        </fill-zones>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="205" y="179" height="4035" width="2808"/>
+            <crop-area>
+              <point x="-109.3333333333329" y="-22.44372567829612"/>
+              <point x="3197.000861683607" y="-69.33333333333331"/>
+              <point x="3263.308060895791" y="4606.196514216849"/>
+              <point x="-43.02613412114951" y="4653.086121871886"/>
+              <point x="-109.3333333333329" y="-22.44372567829612"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9998994541381914</m11>
+              <m12>-0.01418032489567657</m12>
+              <m21>0.01418032489567657</m21>
+              <m22>0.9998994541381914</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="110098" mtime="1669672597"/>
+          <speckles size="846" mtime="1669672597"/>
+          <zones/>
+          <fill-zones>
+            <zone>
+              <spline>
+                <point x="2335.298685602253" y="1222.48365462402"/>
+                <point x="2261.843501369741" y="1271.05535366461"/>
+                <point x="2287.360720859021" y="1337.56846205846"/>
+                <point x="2336.354498124367" y="1381.261578803642"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="1430.189117683359" y="685.1259731823833"/>
+                <point x="1429.794846337028" y="698.3506276335248"/>
+                <point x="1430.07924003901" y="707.450454896664"/>
+                <point x="1431.216737726909" y="714.7018773369772"/>
+                <point x="1433.830313572161" y="719.9070072265959"/>
+                <point x="1471.865484225761" y="720.0329673542379"/>
+                <point x="1477.769719735146" y="682.6999105392166"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="664.4810449759557" y="1780.753510631294"/>
+                <point x="665.7088798044692" y="1841.264559300008"/>
+                <point x="1022.996759140632" y="1849.112843562392"/>
+                <point x="1024.470809615266" y="1794.202745536724"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="1352.203955251687" y="1743.494277289927"/>
+                <point x="1300.045037538355" y="1744.14523081103"/>
+                <point x="1298.16170878755" y="1778.884979280459"/>
+                <point x="1373.113989345566" y="1788.987212761929"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+          </fill-zones>
+        </output-params>
+      </page>
+      <page id="13">
+        <zones/>
+        <fill-zones/>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="220" y="140" height="4111" width="2779"/>
+            <crop-area>
+              <point x="-63.25929603361679" y="-68.00000000000018"/>
+              <point x="3243.021783243244" y="-17.50376984032965"/>
+              <point x="3171.614412610194" y="4657.950966056425"/>
+              <point x="-134.666666666667" y="4607.454735896755"/>
+              <point x="-63.25929603361679" y="-68.00000000000018"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9998833909103383</m11>
+              <m12>0.01527103734667451</m12>
+              <m21>-0.01527103734667451</m21>
+              <m22>0.9998833909103383</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="113718" mtime="1669672605"/>
+          <speckles size="824" mtime="1669672605"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="16">
+        <zones/>
+        <fill-zones>
+          <zone>
+            <spline>
+              <point x="2288.500238874733" y="1152.527447940743"/>
+              <point x="2264.477072088759" y="1343.868196344204"/>
+              <point x="2409.744074561592" y="1356.961982015864"/>
+              <point x="2394.162085549262" y="1161.449029904724"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="569.9824880774567" y="3304.604775137883"/>
+              <point x="574.2970888981986" y="3264.622147522102"/>
+              <point x="559.1623021094279" y="3259.620379666009"/>
+              <point x="530.6657062417739" y="3258.506842191835"/>
+              <point x="503.5792788221399" y="3260.374511944909"/>
+              <point x="495.079816645635" y="3255.517527386904"/>
+              <point x="486.2488041957347" y="3254.587224699202"/>
+              <point x="435.3985164680888" y="3263.804197821761"/>
+              <point x="399.5141657425658" y="3251.957058845062"/>
+              <point x="385.3614562153017" y="3251.64916344571"/>
+              <point x="373.5751959213371" y="3250.001136876912"/>
+              <point x="364.1838463637836" y="3250.143929264167"/>
+              <point x="355.5482585893749" y="3247.521513523577"/>
+              <point x="344.8046389684564" y="3245.896237455197"/>
+              <point x="340.6189092759938" y="3246.500329235557"/>
+              <point x="335.0278250191911" y="3247.769180797389"/>
+              <point x="327.7672578085653" y="3245.872192839388"/>
+              <point x="313.850215167673" y="3246.263946615847"/>
+              <point x="290.8590358596853" y="3248.196263843761"/>
+              <point x="286.6808896673618" y="3248.452808733105"/>
+              <point x="280.9925140241403" y="3238.245029391292"/>
+              <point x="276.814367831817" y="3238.501574280635"/>
+              <point x="264.2040942534538" y="3242.74667785882"/>
+              <point x="240.4344026619032" y="3248.486843887625"/>
+              <point x="221.6972045476318" y="3246.687147316042"/>
+              <point x="212.0113926000379" y="3244.38952796605"/>
+              <point x="199.5755395248784" y="3240.641053050881"/>
+              <point x="193.289361486045" y="3241.894737612435"/>
+              <point x="186.9880164469331" y="3243.843515956021"/>
+              <point x="182.817453754749" y="3243.75251395435"/>
+              <point x="175.5872205446804" y="3240.465338432286"/>
+              <point x="154.975784972825" y="3244.883568398282"/>
+              <point x="156.1207123016449" y="3288.024883885021"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+        </fill-zones>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <distortion-model>
+            <top-curve>
+              <xspline>
+                <point x="270.5856975437964" y="127.5864422737723"/>
+                <point x="2354.062014506296" y="148.5128244114413"/>
+              </xspline>
+              <polyline>+EqHQ0Is/0L+IBNFSIMUQw==</polyline>
+            </top-curve>
+            <bottom-curve>
+              <xspline>
+                <point x="155.8452255314936" y="3297.833625890367"/>
+                <point x="2291.031140567155" y="3358.443681335515"/>
+              </xspline>
+              <polyline>YdgbQ1cdTkWAMA9FGedRRQ==</polyline>
+            </bottom-curve>
+          </distortion-model>
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="manual" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="185" y="79" height="4234" width="2848"/>
+            <crop-area>
+              <point x="-118.6666666666668" y="-78.53211348571797"/>
+              <point x="3187.21310287757" y="-150.6666666666668"/>
+              <point x="3289.219505299178" y="4524.220571958994"/>
+              <point x="-16.6602642450589" y="4596.355125139943"/>
+              <point x="-118.6666666666668" y="-78.53211348571797"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9997620270799091</m11>
+              <m12>-0.02181488503456112</m12>
+              <m21>0.02181488503456112</m21>
+              <m22>0.9997620270799091</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <distortion-model>
+              <top-curve>
+                <xspline>
+                  <point x="270.5856975437964" y="127.5864422737723"/>
+                  <point x="2354.062014506296" y="148.5128244114413"/>
+                </xspline>
+                <polyline>+EqHQ0Is/0L+IBNFSIMUQw==</polyline>
+              </top-curve>
+              <bottom-curve>
+                <xspline>
+                  <point x="155.8452255314936" y="3297.833625890367"/>
+                  <point x="2291.031140567155" y="3358.443681335515"/>
+                </xspline>
+                <polyline>YdgbQ1cdTkWAMA9FGedRRQ==</polyline>
+              </bottom-curve>
+            </distortion-model>
+            <dewarping-options mode="manual" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="117460" mtime="1669759030"/>
+          <speckles size="822" mtime="1669759030"/>
+          <zones/>
+          <fill-zones>
+            <zone>
+              <spline>
+                <point x="2288.500238874733" y="1152.527447940743"/>
+                <point x="2264.477072088759" y="1343.868196344204"/>
+                <point x="2409.744074561592" y="1356.961982015864"/>
+                <point x="2394.162085549262" y="1161.449029904724"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="569.9824880774567" y="3304.604775137883"/>
+                <point x="574.2970888981986" y="3264.622147522102"/>
+                <point x="559.1623021094279" y="3259.620379666009"/>
+                <point x="530.6657062417739" y="3258.506842191835"/>
+                <point x="503.5792788221399" y="3260.374511944909"/>
+                <point x="495.079816645635" y="3255.517527386904"/>
+                <point x="486.2488041957347" y="3254.587224699202"/>
+                <point x="435.3985164680888" y="3263.804197821761"/>
+                <point x="399.5141657425658" y="3251.957058845062"/>
+                <point x="385.3614562153017" y="3251.64916344571"/>
+                <point x="373.5751959213371" y="3250.001136876912"/>
+                <point x="364.1838463637836" y="3250.143929264167"/>
+                <point x="355.5482585893749" y="3247.521513523577"/>
+                <point x="344.8046389684564" y="3245.896237455197"/>
+                <point x="340.6189092759938" y="3246.500329235557"/>
+                <point x="335.0278250191911" y="3247.769180797389"/>
+                <point x="327.7672578085653" y="3245.872192839388"/>
+                <point x="313.850215167673" y="3246.263946615847"/>
+                <point x="290.8590358596853" y="3248.196263843761"/>
+                <point x="286.6808896673618" y="3248.452808733105"/>
+                <point x="280.9925140241403" y="3238.245029391292"/>
+                <point x="276.814367831817" y="3238.501574280635"/>
+                <point x="264.2040942534538" y="3242.74667785882"/>
+                <point x="240.4344026619032" y="3248.486843887625"/>
+                <point x="221.6972045476318" y="3246.687147316042"/>
+                <point x="212.0113926000379" y="3244.38952796605"/>
+                <point x="199.5755395248784" y="3240.641053050881"/>
+                <point x="193.289361486045" y="3241.894737612435"/>
+                <point x="186.9880164469331" y="3243.843515956021"/>
+                <point x="182.817453754749" y="3243.75251395435"/>
+                <point x="175.5872205446804" y="3240.465338432286"/>
+                <point x="154.975784972825" y="3244.883568398282"/>
+                <point x="156.1207123016449" y="3288.024883885021"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+          </fill-zones>
+        </output-params>
+      </page>
+      <page id="19">
+        <zones/>
+        <fill-zones/>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="209" y="184" height="4024" width="2800"/>
+            <crop-area>
+              <point x="-60.69785309548167" y="15.99999999999999"/>
+              <point x="3245.95110769947" y="26.82102204824803"/>
+              <point x="3230.648960794952" y="4702.795983946577"/>
+              <point x="-76.00000000000021" y="4691.974961898329"/>
+              <point x="-60.69785309548167" y="15.99999999999999"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="110126" mtime="1669672696"/>
+          <speckles size="784" mtime="1669672696"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="22">
+        <zones/>
+        <fill-zones>
+          <zone>
+            <spline>
+              <point x="1610.719244107491" y="866.4811730828878"/>
+              <point x="1604.928470819174" y="914.9460930773716"/>
+              <point x="1554.745889089462" y="959.4186996512963"/>
+              <point x="1567.384019708789" y="980.0202181642596"/>
+              <point x="1587.896255776743" y="975.5665745561107"/>
+              <point x="1602.740994583874" y="954.6801837505964"/>
+              <point x="1617.560224121002" y="936.1322178054191"/>
+              <point x="1663.389092327596" y="915.5838248274426"/>
+              <point x="1707.145276013902" y="924.246610651175"/>
+              <point x="1784.338805675021" y="922.7499917009318"/>
+              <point x="1876.73209692833" y="921.4191830057072"/>
+              <point x="1998.240907220837" y="930.9301520570339"/>
+              <point x="1993.70646548016" y="864.2276476799267"/>
+              <point x="1886.685264214744" y="866.5682358678019"/>
+              <point x="1844.523466236173" y="872.5397373736772"/>
+              <point x="1777.974017479083" y="863.043629952333"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="2341.61075679039" y="1187.356586823483"/>
+              <point x="2275.501881833165" y="1256.165482442211"/>
+              <point x="2340.109134423788" y="1325.00972517317"/>
+              <point x="2431.170013203855" y="1263.426030507445"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="2353.179647905748" y="2123.27161995158"/>
+              <point x="2270.30212059284" y="2199.545897312975"/>
+              <point x="2345.957019597247" y="2275.463661970008"/>
+              <point x="2430.973288180939" y="2194.345611369482"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+          <zone>
+            <spline>
+              <point x="1759.476698112346" y="2207.201369127157"/>
+              <point x="1759.580367777774" y="2261.435946973834"/>
+              <point x="1810.33127232084" y="2261.989575422127"/>
+              <point x="1834.747321251505" y="2254.607617144271"/>
+              <point x="2137.854728817648" y="2258.609437801787"/>
+              <point x="2134.229466091877" y="2208.508247421095"/>
+            </spline>
+            <properties>
+              <property type="FillColorProperty" color="#ffffff"/>
+            </properties>
+          </zone>
+        </fill-zones>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="157" y="261" height="3870" width="2904"/>
+            <crop-area>
+              <point x="-181.3333333333341" y="76.06942254076283"/>
+              <point x="3125.136603200509" y="39.99999999999989"/>
+              <point x="3176.142839027306" y="4715.721801380686"/>
+              <point x="-130.3270975065371" y="4751.791223921449"/>
+              <point x="-181.3333333333341" y="76.06942254076283"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9999405050001497</m11>
+              <m12>-0.01090809149418237</m12>
+              <m21>0.01090809149418237</m21>
+              <m22>0.9999405050001497</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="108080" mtime="1669672804"/>
+          <speckles size="1206" mtime="1669672804"/>
+          <zones/>
+          <fill-zones>
+            <zone>
+              <spline>
+                <point x="1610.719244107491" y="866.4811730828878"/>
+                <point x="1604.928470819174" y="914.9460930773716"/>
+                <point x="1554.745889089462" y="959.4186996512963"/>
+                <point x="1567.384019708789" y="980.0202181642596"/>
+                <point x="1587.896255776743" y="975.5665745561107"/>
+                <point x="1602.740994583874" y="954.6801837505964"/>
+                <point x="1617.560224121002" y="936.1322178054191"/>
+                <point x="1663.389092327596" y="915.5838248274426"/>
+                <point x="1707.145276013902" y="924.246610651175"/>
+                <point x="1784.338805675021" y="922.7499917009318"/>
+                <point x="1876.73209692833" y="921.4191830057072"/>
+                <point x="1998.240907220837" y="930.9301520570339"/>
+                <point x="1993.70646548016" y="864.2276476799267"/>
+                <point x="1886.685264214744" y="866.5682358678019"/>
+                <point x="1844.523466236173" y="872.5397373736772"/>
+                <point x="1777.974017479083" y="863.043629952333"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="2341.61075679039" y="1187.356586823483"/>
+                <point x="2275.501881833165" y="1256.165482442211"/>
+                <point x="2340.109134423788" y="1325.00972517317"/>
+                <point x="2431.170013203855" y="1263.426030507445"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="2353.179647905748" y="2123.27161995158"/>
+                <point x="2270.30212059284" y="2199.545897312975"/>
+                <point x="2345.957019597247" y="2275.463661970008"/>
+                <point x="2430.973288180939" y="2194.345611369482"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+            <zone>
+              <spline>
+                <point x="1759.476698112346" y="2207.201369127157"/>
+                <point x="1759.580367777774" y="2261.435946973834"/>
+                <point x="1810.33127232084" y="2261.989575422127"/>
+                <point x="1834.747321251505" y="2254.607617144271"/>
+                <point x="2137.854728817648" y="2258.609437801787"/>
+                <point x="2134.229466091877" y="2208.508247421095"/>
+              </spline>
+              <properties>
+                <property type="FillColorProperty" color="#ffffff"/>
+              </properties>
+            </zone>
+          </fill-zones>
+        </output-params>
+      </page>
+      <page id="25">
+        <zones/>
+        <fill-zones/>
+        <params blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+          <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+          <dewarping-options mode="off" postDeskew="1"/>
+          <dpi vertical="400" horizontal="400"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+              <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+            </color-or-grayscale>
+            <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+              <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+            </bw>
+          </color-params>
+          <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+        </params>
+        <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+        <output-params>
+          <image blackOnWhite="1" depthPerception="2" despeckleLevel="3">
+            <size height="4392" width="3219"/>
+            <content-rect x="241" y="79" height="445" width="2736"/>
+            <crop-area>
+              <point x="-121.3333333333335" y="-426.1193114811211"/>
+              <point x="3185.325464053115" y="-433.3333333333279"/>
+              <point x="3195.526905438474" y="4242.655538615911"/>
+              <point x="-111.1318919479748" y="4249.869560468118"/>
+              <point x="-121.3333333333335" y="-426.1193114811211"/>
+            </crop-area>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="400" horizontal="400"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale fillOffcut="1" fillingColor="background" fillMargins="1" normalizeIlluminationColor="0">
+                <posterization-options enabled="0" normalizationEnabled="0" level="4" forceBlackAndWhite="1"/>
+              </color-or-grayscale>
+              <bw savitzkyGolaySmoothing="1" binarizationMethod="otsu" windowSize="200" wolfCoef="0.3" wolfLowerBound="1" sauvolaCoef="0.34" thresholdAdj="0" morphologicalSmoothing="1" wolfUpperBound="254" normalizeIlluminationBW="1">
+                <color-segmenter-options redThresholdAdjustment="0" enabled="0" noiseReduction="7" greenThresholdAdjustment="0" blueThresholdAdjustment="0"/>
+              </bw>
+            </color-params>
+            <splitting originalBackground="0" splittingMode="bw" splitOutput="0"/>
+            <picture-shape-options sensitivity="100" higherSearchSensitivity="0" pictureShape="free"/>
+            <dewarping-options mode="off" postDeskew="1"/>
+            <processing-params blackOnWhiteSetManually="0" autoZonesFound="0"/>
+          </image>
+          <file size="11734" mtime="1669672782"/>
+          <speckles size="748" mtime="1669672782"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+    </output>
+  </filters>
+</project>
