@@ -2,4 +2,6 @@ cache
 *.tif
 *.ScanTailor
 *.backup
+*.bak
+
 
