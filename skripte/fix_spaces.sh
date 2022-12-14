@@ -22,6 +22,6 @@ fi
 
 for file in "$target_folder"/*.txt; do
   echo "Working on $file"
-  sed -i.bak -E 's/([[:alpha:]])([[:punct:]])([[:alpha:]])/\1\2 \3/g;s/ ,/, /g' "$file"
+  sed -i.bak -E 's/([[:alpha:]])([\.,:;])([[:alpha:]])/\1\2 \3/g;s/ ,/, /g;s/ \./\. /g' "$file"
 done
 
