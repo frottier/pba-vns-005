@@ -6,9 +6,9 @@ ergon, Werk heißt. Mit ihrem Zweck ist die Erkenntnis nur zu verbinden,
 wenn das Werk selbständig gegen die Erkenntnis ist, und das Werk ist
 nur selbständig gegen die Erkenntnis, wenn ihm ein gegenüber der Er=
 kenntnis selbständiger Gegenstand zugrunde liegt. Diesen Gegenstand
-durch die Erkenntnis zu erfasäen, um ihn als Mittel für einen Zweck zu
+durch die Erkenntnis zu erfassen, um ihn als Mittel für einen Zweck zu
 bestimmen, der nicht in diesem Gegenstand selbst liegt, bedarf es der
-techne, der Kunstfertgkeit, die dem Gegenstand sich anmißt, um über
+techne, der Kunstfertigkeit, die dem Gegenstand sich anmißt, um über
 ihn verfügen zu können. Da der Gegenstand der techne nicht universell
 ist, kann sie selbst es ebensowenig sein. In ihr reproduziert sich das
 Moment von Blindheit gegenüber sich selbst, dessen die Kunstfertigkeit
@@ -18,13 +18,12 @@ Und dann wird dieser Frage entgegengesetzt die Werke und die Zwecke
 dieser Werke von anderen Kenntnissen oder von anderem Wissen. Ohne das
 Moment der Blindheit der techne gegen sich selbst würde ihr Gegenstand
 zur an sich unbestimmten Materie, und dann, wenn der Gegenstand die an
-sich unbestimmte Materie wäre, wäre die techne nicht auf einen bestimn=
+sich unbestimmte Materie wäre, wäre die techne nicht auf einen bestimm=
 ten Gegenstand bezogen, sondern selbst universell. Gerade das, was die
 objektive Bestimmtheit des Gegenstandes ausmacht, läßt direkt sich
 nicht erkennen, sondern durch durch die Reflexion auf das Moment der
 Blindheit der techne gegen sich selbst; wobei der Zweck der techne, die
 Verfügung über den Gegenstand, eine Bestimmbarkeit des Gegenstandes
-
 zum Mittel ist. Weder techne noch Gegenstand sind an sich identisch,
 sondern beide sind jeweils die Einheit von Identität und Nichtidenti=
 tät, von Bestimmtheit und Bestimmbarkeit. Aber sie sind diese Einheit
@@ -39,7 +38,8 @@ Kunstfertigkeit noch diese selbst - hat ihre Bestimmtheit durch sich
 selbst, sondern durch ihr jeweils Anderes. Diese Unbestimmtheit in den
 Begriffen läßt diese Begriff sich verwandeln sobald sie jeder für sich
 fixiert werden; ganz in Analogie zu:der Bestimmung des Frommen und des
-Gefälligen im 'Eutyphron'. Da heißt es(15b): "Und dir erklärend, wun=
+Gefälligen im 'Eutyphron'. Da heißt es (15b): "Und dir erklärend, wun=
 derst du dich noch, wenn sich zeigt, deine Erklärungen wollen nicht be=
 stehen, sondern wandeln? Und willst mich noch beschuldigen, ich, der
 Daidalos, mache sie wandeln, da du doch selbst, weit künstlicher noch
+

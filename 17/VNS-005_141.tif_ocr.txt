@@ -1,7 +1,7 @@
 Gesicht nichts jemals sehen. - Freilich nicht. - Du siehst also, o Kri=
 tias, was wir nur durchgegangen sind, so zeigte es sich uns teils
 gänzlich unmöglich, teils gar sehr unglaublich, daß jemals etwas seine
-Zigenschaft in Beziehung auf sich selbst haben könne." Es kann erstens
+Eigenschaft in Beziehung auf sich selbst haben könne." Es kann erstens
 seine Eigenschaft nicht in Beziehung auf sich selbst haben, weil es
 dann größer sein müßte als es selbst, weil im nicht-tautologischen Ur=
 teil Subjekt und Prädikat unterschieden sind, und zugleich Subjekt und
@@ -11,12 +11,12 @@ dann die Erkenntnis der Erkenntnis dem Umfang nach immer größer sein
 als sie selbst. Das ist das eine Argument. Das zweite ist, daß jede ir=
 reflexive Erkenntnis einen Gegenstand außer ihr hat, nicht das Erkennt=
 nisvermögen selbst ist, weil das Wahrnehmungsvermögen nicht wahrzuneh=
-men ist.(So alt sind die Argumente gegen die Abbildtheorie.) Die Bezie=
+men ist. (So alt sind die Argumente gegen die Abbildtheorie.) Die Bezie=
 hung der Erkenntnis auf den Gegenstand ist eine irreflexive Relation,
 die deswegen nicht in die reflexive Relation der sich selbst erkennen=
 den Erkenntnis aufzulösen ist. Eben deswegen kann aber auch die Objek=
 tivität der Erkenntnis nicht aus der Reflexivität des erkennendes Sub=
-Jekts begründet werden. Darin erweist im auf sich reflektierenden Logos
+jekts begründet werden. Darin erweist im auf sich reflektierenden Logos
 sich die Irreduzibilität des mythischen Moments. Da muß ich leider sehr
 vorsichtig sein in der Bestimmung. Schon das Moment der Blindheit der
 techne gegen sich selbst sagt ja nicht: dieses Moment der Blindheit
@@ -24,11 +24,11 @@ kann ich, etwa unter dem Titel Mimesis, unabhängig von den bewußten Mo=
 menten, also von den methodisch sicheren Verfahren der techne, haben,
 sondern es ist nur ein notwendiges Moment eben des sich-anmessens der
 Methode an den Gegenstand. Unabhängig von der dem Gegenstand angemesse=
-nen Methode gibt es Überhaupt diese Bestimmung des Gegenstands nicht,
+nen Methode gibt es überhaupt diese Bestimmung des Gegenstands nicht,
 sondern wäre der Gegenstand wiederum reine Unbestimmtheit. Ebenso ist
 es hier das mythische Moment des auf sich reflektierenden Logos, das
 nur darin zum Ausdruck kommt, daß die Autonomie des auf sich reflektie=
-renden Logos streng durchgeführt genau desen feste Bestimmungen zum
+renden Logos streng durchgeführt genau dessen feste Bestimmungen zum
 Wandern bringt. Genau dann, wenn die Reflexion in Begriffen den Mythos
 restlos auszutreiben sucht, beginnen die Begriffe zu vagabundieren wie
 die homerischen Götter, weil die Gewißheit des Wissens dann von dem In=
@@ -41,3 +41,4 @@ stimmt, keinen Gegenstand hat und von der dann niemand mehr weiß, ob er
 sie nun hat oder nicht hat; ob sie ihm als Prädikat zukommt oder nicht
 zukommt. Sie kann ihm nicht als Prädikat zukommen, weil sie selbst
 überhaupt nicht Prädikat sein kann, weil sie reine Reflexivität ist,
+
