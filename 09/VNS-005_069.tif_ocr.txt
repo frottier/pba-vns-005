@@ -2,38 +2,38 @@ ein Zusammenzählen dessen, was vorhanden ist, ohne daß der Grund
 dessen, daß es zusammen vorhanden ist, angegeben wird. Die Einheit
 der Versammelten selbst ist aber schon Einheit der Unterschiedenen.
 Sie hat die Disjunktion, die Unterscheidung selbst schon an sich;
-und diese Disjunktion ist formal. also logisch, eine Entgegensetzung.
+und diese Disjunktion ist formal, also logisch, eine Entgegensetzung.
 Ich möchte die entsprechenden Charakterisierungen der kategorischen
 Urteile, die bestimmen, was versammelt ist, der hypothetischen, die
 einen Zusammenhang erklären, der disjunktiven, aus der Transzenden-
-talen Analytik(A 75ff, B 98ff) vortragen. Da heißt es bei Kant:
+talen Analytik (A 73ff, B 98ff) vortragen. Da heißt es bei Kant:
 "Alle Verhältnisse des Denkens in Urteilen sind die (a) des Prädi-
 kats zum Subjekt", der Bezeichnung dessen und der Charakterisierung
 dessen, was versammelt ist, "(b) des Grundes zur Folge, (c) der
 eingeteilten Erkenntnis und der versammelten Glieder der Einteilung
-untereinander." 'A ist entweder B oder C'! wäre ein disjunktives Ur-
+untereinander." 'A ist entweder B oder C' wäre ein disjunktives Ur-
 teil. "In der ersteren Art der Urteile sind nur zwei Begriffe, in
 der zweiten zwei Urteile, in der dritten mehrere Urteile im Ver-
 hältnis gegeneinander betrachtet. (...) Endlich enthält das disjunk-
 tive Urteil ein Verhältnis zweier, oder mehrerer Sätze gegeneinan-
 der, aber nicht der Abfolge, sondern der logischen Entgegensetzung,
-sofern die Sphäre des einen die des andern ausschließt, aber doch z
+sofern die Sphäre des einen die des andern ausschließt, aber doch
 zugleich der Gemeinschaft, indem sie zusammen die Sphäre der ei-
 gentlichen Erkenntnis erfüllen, also ein Verhältnis der Teile der
-Sphäre eines Erkennthisses, da die Sphäre eines jeden Teils ein Er-
-gänzungsstück der Sphäre des anderen zu dem ganzen Inbegrifffer
+Sphäre eines Erkenntnisses, da die Sphäre eines jeden Teils ein Er-
+gänzungsstück der Sphäre des anderen zu dem ganzen Inbegrifff der
 eingeteilten Erkenntnis ist, z. E. die Welt ist entweder durch ei-
 nen blinden Zufall da, oder durch innere Notwendigkeit, oder durch
 eine äußere Ursache." Kant bezieht das nur auf die Erkenntnisse. Er
 sagt aber, jede Einteilung eines Ganzen setzt dieses Ganze voraus,
 und setzt dann die einzelnen Teile dieses Ganzen einander logisch
 entgegen. Weil ein bestimmtes Element entweder zu der einen Sphäre,
-zu dem einen Teil oder zu dem andern Teil oder zu einem dritten Teil
--wie viele Teile es sein können, steht hier nicht- gehört, und das
+zu dem einen Teil oder zu dem anderen Teil oder zu einem dritten Teil
+- wie viele Teile es sein können, steht hier nicht - gehört, und das
 geschehe durch disjunktive Urteile. "Das Erkenntnis aus einer dieser
 Sphären wegnehmen, heißt, sie in eine der übrigen setzen, und da-
 gegen sie in eine Sphäre setzen, heißt, sie aus den übrigen weg-
-nehmen. Es ist also in einen disjunktiven Urteile eine gewisse Ge-
+nehmen. Es ist also in einem disjunktiven Urteile eine gewisse Ge-
 meinschaft der Erkenntnisse, die darin besteht, daß sie sich
 wechselseitig einander ausschließen, aber dadurch doch im Ganzen
 die wahre Erkenntnis bestimmen, indem sie zusammengenommen den
