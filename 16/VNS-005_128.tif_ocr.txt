@@ -17,17 +17,17 @@ zugleich P und nicht P sein müßte; sie können aber beide falsch sein,
 dann nämlich, wenn nur einige S P sind oder wenn, was gleichbedeutend
 ist, einige S nicht P sind. e und o sind aus 'nego' gebildet, also der
 Negation, a und i sind aus 'affirmo' gebildet; der erste Buchstabe ist
-immer der universale, der zweite der partikulare. Dies Verhältnis(von
+immer der universale, der zweite der partikulare. Dies Verhältnis (von
 den Urteilen S a P und S o P) heißt kontradiktorisch, weil diese beiden
 Urteile weder zusammen wahr noch zusammen falsch sein können, und diese
-beide Urteile (S e P und S e P) weder zusammen falsch noch zusammen wahr
+beiden Urteile (S e P und S i P) weder zusammen falsch noch zusammen wahr
 sein können. Wenn ich sage: alle S sind P und einige S sind nicht P,
 dann gibt es immer ein S, daß P und nicht P ist. Hier (im Verhältnis von
 SaP und SeP) kann man sagen: der konträre Gegensatz läßt sich beheben,
 indem ich jetzt unterscheide: einige S sind P, einige S sind nicht P.
 Jetzt brauche ich nur den Subjektbegriff weiter zu spezifizieren, um
 zwei universale Urteile mit einem neuen, jetzt spezielleren Subjektbe-
-griii daraus zu machen, die zueinander nicht mehr im Verhältnis der Kon-
+griff daraus zu machen, die zueinander nicht mehr im Verhältnis der Kon-
 trarietät stehen, sondern miteinander kompatibel sind. Taucht irgendwo
 ein Widerspruch auf, ist der erste Versuch, diesen Widerspruch auf den
 konträren Gegensatz zurückzuführen und diesen Gegensatz dadurch zu behe-
@@ -41,5 +41,5 @@ ben, indem das logische Subjekt, also das Subjekt in dem Urteil, genauer
 spezifiziert wird. Ob das Verhältnis zweier universaler Urteile konträr
 ist oder ob die Kontrarietät eine Kontradiktion verbirgt, läßt sich erst
 sagen, wenr der Widerspruch mit einer Distinktion des Subjektbegriffes
-behoben ist. Das heißt ...?...: sie können beide wahr sein, sie können
+behoben ist. Das heißt ...?...: sie können beide [nicht?] wahr sein, sie können
 
