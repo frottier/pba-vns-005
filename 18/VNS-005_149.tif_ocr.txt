@@ -15,7 +15,7 @@ sich selbst genügt, doch die Logik erzwingt, daß die reine Reflexivität
 eine Relation von nichts ist. Damit reicht Platon in der Argumentation
 des 'Charmides' schon an den materialen Kern der Logik, die in sich
 selbst unmöglich wird, sobald sie sich absolut setzt. Dazu eine etwas
-längere Anmerkung: Wegen der Antinomien der [Leerstelle] Gesetze, die
+längere Anmerkung: Wegen der Antinomien [Leerstelle] der Gesetze, die
 sich gegen sich selbst richten, die aus der reinen Reflexivität resul-
 tieren, polemisieren Logiker bzw. solche, die sich dafür halten, gegen
 den Begriff der Reflexivität. Der sei, weil er zu Antinomien führe, zu
