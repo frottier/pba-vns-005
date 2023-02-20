@@ -17,9 +17,9 @@
 #       vorangestellt.
 #     - Die Zeilen werden zusammengefügt.
 #     - Die Newlines (Zeilenumbrüche) werden entfernt, außer die Zeile
-#       endet mit einem Punkt. In der überwiegenden Anzahl der Fälle wird
-#       so ein Absatzende markiert. Ein Absatz entspricht jetzt einer
-#       Zeile.
+#       endet mit einem Punkt, Doppelpunkt etc. In der überwiegenden Anzahl
+#       der Fälle wird so ein Absatzende markiert. Ein Absatz entspricht
+#       jetzt einer Zeile.
 #     - Leerzeilen bleiben erhalten.
 #     - Es werden alle Worttrennungen angezeigt. Der User entscheidet in
 #       jedem Fall, wie damit zu verfahren ist. In der Regel kann die
@@ -71,13 +71,14 @@ for file in input_files:
 # make paragraphs by eliminating newlines when appropriate.
 paragraphs = []
 paragraph = ''
+par_ends = ('.\n', ':\n', '?\n', '!\n', ')\n', '"\n')
 for index, line in enumerate(joined_lines):
     if line.isspace():
         paragraphs.append('\n')
         paragraph = ''
-    elif line.endswith('.\n') or joined_lines[index + 1].isspace():
+    elif line.endswith(par_ends) or joined_lines[index + 1].isspace():
         paragraph = ' '.join([paragraph, line])
-        paragraphs.append(paragraph)
+        paragraphs.append(paragraph.lstrip())   # or one line par starts with " "
         paragraph = ''
     else:
         if len(paragraph) == 0:
