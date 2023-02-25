@@ -8,7 +8,8 @@ Die Seiten wurden mit 300 DPI gescannt, womit sie an der unteren Grenze dessen l
 
 Die im nachfolgenden Schritt eingesetzte OCR-Software _Tesseract_ bringt von sich aus Mechanismen zur Verbesserung der Vorlagenqualität mit. Insbesondere werden die Bilder vor der Erkennung reine Schwarz-Weiß-Bilder umgewandelt – es gibt also nur schwarze oder weiße Pixel. Dabei soll eine klare Trennung zwischen Hintergrund – dem Papier – und Vordergrund – den Buchstaben – erreicht werden.
 
-Manuelle Eingriffe sind bei dieser Automatik kaum möglich und sie kann zentrale Probleme der Vorlagen, wie z.B. stark winklig kopierte Seiten, nicht lösen. Da auf den Rändern der Vorlagen teils auch Randnotizen, Stempel und vor allem Lochungen vorhanden sind, die die Texterkennung stark irritieren können, ist eine vorherige Aufbereitung der Vorlagen unverzichtbar.
+Manuelle Eingriffe sind bei dieser Automatik kaum möglich. Zentrale Probleme der Vorlagen können die Texterkennung irritieren, wenn sie nicht automatisch erkannt werden: Hierzu zählen Lochungen, Ränder und Linien durch mehrfache, teils verkleinerte Kopie der Vorlage, händische Randnotizen, Stempel, winkelig oder verzerrt kopierte Seiten. Durch die vorherige Aufbereitung können diese Faktoren eliminiert werden.  
+Ob dieser Schritt tatsächlich notwendig ist, ist diskutabel. Mit Tesseract in der Version 5 scheint sich die automatische Erkennung störender Faktoren stark verbessert zu haben. Nichtsdestoweniger kann die manuelle Aufbereitung sinnvoll sein, da sie aus recht heterogenen Vorlagen weitgehend homogenen Input für die OCR liefert. 
 
 Die dafür eingesetzte Open Source Software _ScanTailor Advanced_ bietet dafür einen stark automatiserten Ablauf, der zugleich an jeder Stelle im Bedarfsfall manuell beeinflusst werden kann. Mit _ScanTailor_ werden die farbigen Vorlagen in monochrome Bilder transformiert, die Ränder beschnitten, schiefe Zeilen gerade ausgerichtet und mögliche Irritationen entfernt. Die so erstellten Vorlagen führen je nach Vorlage zu einer spürbar verbesserten Erkennungsrate. 
 
@@ -70,16 +71,17 @@ Wir generieren monochrome Bilder mit einer __Auflösung von 400 DPI__. Die gewä
 
 Experimentell ließ sich zwischen 400 und 600 DPI jedoch kein Grund für die höhere Auflösung finden. Zwar sind die Ergebnisse verschieden, nicht aber besser oder schlechter. Manche Fehler verschwinden, andere kommen hinzu.
 
-Der __Threshold-Wert__ wird auf maximal eingestellt. Ausgewählt ist der Otsu-Algorithmus. Dies führt zu "fetten" Buchstaben, die besser erkannt werden. Je nach Vorlage kann ein moderateres Vorgehen erforderlich sein.
+Der __Threshold-Wert__ hat einen messbaren, aber oft minimalen Einfluss auf die Texterkennungsrate. Das Ziel ist eine kontrastreiche, etwas zu fett wirkende Ausgabedatei. Buchstaben sollten weder so dünn erscheinen, dass Linien fehlen, noch so fett, dass umschlossene Weißräume geschwärzt werden. Ausgewählt ist der Otsu-Algorithmus.
 
-__Despeckling__ entfernt kleine Punkte, die ansonsten leicht als Zeichen fehlinterpretiert werden könnten. Auch hier ist der Maximalwert eine gute Wahl.
+__Despeckling__ entfernt kleine Punkte, die ansonsten leicht als Zeichen fehlinterpretiert werden könnten. Hier ist oft der Maximalwert eine gute Wahl. I-Punkte sollten erhalten bleiben.
 
 Die allgemeinen Einstellungen zum Output müssen für alle Seiten übernommen werden. Spezifisch für die jeweilige Seite sind indessen die Fill Zones.
 
-Die gröberen Irritationen müssen manuell als __Fill Zones__ markiert und damit gelöscht werden. Das bezieht sich auf Verunreinigungen, die nicht vom Despeckling erfasst wurden, "schwarze" Lochungen, Bleistiftnotizen, Zeichnungen und alles, was nicht zum getippten Textblock gehört. Handschriftliche griechische Termini können als Platzhalter beibehalten werden. Sie bedürfen der späteren manuellen Ersetzung durch Unicode-Zeichen.
+Die gröberen Irritationen sollten manuell als __Fill Zones__ markiert und damit aus der Ausgabe gelöscht werden. Das bezieht sich auf Verunreinigungen, die nicht vom Despeckling erfasst wurden, "schwarze" Lochungen, Bleistiftnotizen, gestrichene Worte, Zeichnungen und alles, was nicht zum getippten Textblock gehört. Zurückhaltung ist zeitökonomisch: Die meisten Fehler sind in der resultierenden Textdatei schneller und einfacher zu beheben als in ScanTailor. Unter Umständen kann es sinnvoll sein, Irritierendes bewusst stehen zu lassen, um eine Fehlerkennung damit eine spätere Korrektur zu provozieren. Handschriftliche eingefügte griechische Termini und Vergleichbares können als Platzhalter beibehalten werden. Sie bedürfen der späteren manuellen Ersetzung durch Unicode-Zeichen.
 
 In manchen Fällen – vor allem bei mehrfach kopierten Vorlagen – sind die Seiten in sich verzerrt. Ein Beispiel dafür ist VNS-005-022. Die Seite ist sichtbar schief und lässt sich nicht durch einfache Rotation gerade ausrichten, weshalb _ScantTailors_ Algorithmus sich dort schwer tut. Leicht erkennbar ist, dass der linke Anschlag von Zeile zu Zeile weiter nach links wandert. Weniger erkennbar ist ein gravierenderes Problem: Die oberen Zeilen tendieren zu ihrem Ende hin nach Oben, während in Relation die unteren Zeilen nach Unten streben.
 
 Damit lassen sich die Zeilen nicht ohne Weiteres gerade ausrichten. Für die OCR ist das fatal. In diesem Einzefall waren die OCR-Ergebnisse zunächst unbrauchbar. _ScanTailor_ bietet mit dem __Dewarping__-Tool eine Möglichkeit zur manuellen Korrektur (die automatischen Methoden sind als experimentell gekennzeichnet und versuchen in erster Linie Kurven aus abfotografierten Buchseiten zu begradigen). Das Ziel ist hierbei, das Raster möglichst so über dem Text anzuordnen, dass die horizontalen Linien parallel zu den Grundlinien des Textes liegen. Die vertikalen Linien sollten parallel zu Vertikalen wie dem linken Anschlag verlaufen.
 
-Nach der Korrektur wird mit einem Klick auf den Reiter „Output“ die Seite neu exportiert. Die OCR lieferte ein brauchbares Ergebnis. An diesem Beispiel wird deutlich, dass die Arbeitsschritte _Aufbereitung_ und _OCR_ im Workflow nicht getrennt werden sollten, da die Bewertung des OCR-Outputs ein Zurückgehen in die Aufbereitung notwendig machen kann.
+Nach der Korrektur wird mit einem Klick auf den Reiter „Output“ die Seite neu exportiert. Der erneute Export aller Seiten erfolgt mit dem "Play-Button" der Output-Sektion.
+
