@@ -1,19 +1,9 @@
-4
-j
-
-Re
-Zus italian.
-
-.
-B
-.
-
 lungen beurteilt werden, sodaß vorausgesetzt wird, was erst gefunden
 werden soll, eben das Kriterium, nach dem die Handlungen beurteilt
 werden bzw. werden sollen. Und es wird vorausgesetzt als Bestimmtheit
 der einzelnen Handlung. Das ist das Problem, welches sich dann durch
 die ganze Geschichte der Philosophie hindurchzieht: Entweder habe ich
-eine objektive Wesensbestimmung, dann ist das Verhältnis diser Wesens=
+eine objektive Wesensbestimmung, dann ist das Verhältnis dieser Wesens=
 bestimmung zu dem, dessen Wesen es sein soll, problematisch; oder es
 gibt keine objektive Wesensbestimmung, die soll vielmehr erst durch
 die Zusammenfassung der einzelnen Gegenstände zu einer Klasse von Ge=
@@ -22,30 +12,28 @@ um, nach dem ich einzelne Gegenstände zu einer Klasse von Gegenständen
 zusammenfasse. Das Kriterium: was mir gerade in den Blick kommt, führt
 sehr schnell nur auf den Gegenstand überhaupt, irgendeinen Gegenstand
 möglicher Erfahrung, aber nie auf eine species. Bei dem Versuch, her=
-auszubekommen, was Tugend sei, indem bestimmt wird, was den Handlun=-
-gen, die für tugendhaft angesehen werden, gereinsam sei, löst sich die
+auszubekommen, was Tugend sei, indem bestimmt wird, was den Handlun=
+gen, die für tugendhaft angesehen werden, gemeinsam sei, löst sich die
 Tugend auf in die Bestimmtheit der einzelnen Handlungen, das heißt in
 die Bestimmtheiten der einzelnen Handlungen, die dann in konsistente
 Klassen von Handlungen nur zusammengefaßt werden könnten aufgrund die=
 ser einzelnen Bestimmtheiten, die als Teile der Tugend vor dieser Tu=
 gend selbst wären. Das aber führt notwendig auf eine tautologische Be=
 stimmung des Begriffs der Tugend. Ich zitiere aus dem 'Menon' 79a-e:
-"Sokrates: Behaupteten wir nün nicht vor kurzem, jedes von diesen sei
+"Sokrates: Behaupteten wir nun nicht vor kurzem, jedes von diesen sei
 ein Teil der Tugend, die Gerechtigkeit und die Besonnenheit und alles
 dieses? - Menon: Ja. - Sokrates: Also, o Menon, scherzt du mit mir? -
-
-.Menon: Wieso, Sokrates? - Sokrates: Weil, obwohl ich dich gerade eben
-
+Menon: Wieso, Sokrates? - Sokrates: Weil, obwohl ich dich gerade eben
 gebeten, mir die Tugend weder zu zerbrechen noch zu zerkrümeln, und
-dir Beispiele gegeben habe, wie du antworten solltest, du unbekünnmert
+dir Beispiele gegeben habe, wie du antworten solltest, du unbekümmert
 um dies alles mir sagst, das sei Tugend, wenn man vermöge, Gutes her=
 beizuschaffen mit Gerechtigkeit, welche, wie du selbst behauptest, ein
 Teil der Tugend ist." Also einmal ist es Gutes herbeizuschaffen, wie
-Gold und Silber, das andere aber das zusätzliche Kriterium, mit Gerech-=
+Gold und Silber, das andere aber das zusätzliche Kriterium, mit Gerech=
 tigkeit. "Menon: Das behaupte ich. - Sokrates: Also folgt ja aus dem,
 was du eingestehst, alles, was man tut, mit einem Teile der Tugend zu
 tun, das sei Tugend. Denn die Gerechtigkeit, sagst du, sei ein Teil
-der Tugend, und 'so jede von diesen. Warum nun sage ich dies? Weil, ob=
+der Tugend, und so jede von diesen. Warum nun sage ich dies? Weil, ob=
 gleich ich dich gebeten, mir die ganze Tugend zu erklären, du weit
 entfernt bist, mir zu sagen,was sie ist, sondern nur sagst, jede Hand=
 lung sei Tugend, wenn sie mit einem Teile der Tugend verrichtet wird;
@@ -53,8 +41,4 @@ als hättest du schon erklärt, was die Tugend ist im ganzen, und als
 würde ich sie nun schon erkennen, wenn du sie auch nach ihren Teilen
 zerstückelst." Das ist eine petitio principii, also eine Bitte um den
 Beweisgrund: zu sagen, wenn diese Handlung tugendhaft ist und diese
-m
-) R
-
-ur En - r e T 207 =.
 
