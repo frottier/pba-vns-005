@@ -1,4 +1,4 @@
-eine erste Torsten von einer solchen Theorie der Interpretation
+eine erste Vorstellung von einer solchen Theorie der Interpretation
 geben. Es ist nicht so, daß jetzt einfach ein Kriterium anzugeben und
 zu begründen ist, mit dessen Hilfe die wahr von den falschen zirkulä=
 ren Definitionen zu unterscheiden wären, denn ein solches Kriterium
@@ -6,45 +6,39 @@ würde, wenn es wahr wäre, wiederum zirkulär definiert sein und müßte
 dann auf sich selbst angewendet werden, um zeigen zu können, ob es
 selbst wahr oder nicht wahr ist. Das liefe wieder auf das Problem der
 Erkenntnis der Erkenntnis im 'Charmides' hinaus und damit auf den Wi=
-
-. dersprüch, daß jemand weiß, daß er weiß, aber nicht, was er weiß. Der
-
+dersprüch, daß jemand weiß, daß er weiß, aber nicht, was er weiß. Der
 Fortschritt in der Argumentation vom 'Charmides' zum 'Menon' besteht
 gerade darin, daß die Notwendigkeit der intellektuellen Anschauung ei=
 ner Idee erkannt wird als Bedingung der Möglichkeit der Erkenntnis
 selbst. Dieser Fortschritt ist zugleich ein Rückschritt in den Mythos,
 der aber jetzt nicht mehr der der olympischen Götter von Homer oder
-Hesiod ist, sondern der der Ideen, deren Notwendigkeit für die Erkennt-
+Hesiod ist, sondern der der Ideen, deren Notwendigkeit für die Erkennt=
 nis begründet ist. Aus der erkenntnistheoretischen Reflexion kann die
 Existenz der Ideen nicht begründet werden. Es läßt sich aber nun zei=
 gen, wie sie in der erkenntnistheoretischen Reflexion sich darstellen.
 Angenommen, es gibt die Idee des Guten, oder es gibt die Idee der So=
 phrosyne, dann könnte sich diese Idee diskursiv nur darstellen, weil
-
 sie ja an sich bestimmt ist, indem sie entweder durch bloße Namen be=
 zeichnet wird oder indem ihre Bestimmung auf eine zirkuläre Definition
 hinausläuft, denn die Ideen sollen von nichts anderem abhängig sein.
-
 Wenn sie aber von nichts anderem abhängig sind, können sie auch durch
 nichts anderes begründet werden. Sie können also nur dann durch sich
 selbst begründet werden und die logische Gestalt der Begründung durch
 sich selbst ist der Zirkel einer Realdefinition. Aus der erkenntnis=
 theoretischen Reflexion kann die Existenz der Ideen nicht begründet
-werden. Es- läßt sich aber nun zeigen, wie sie in der erkenntnistheore=
+werden. Es läßt sich aber nun zeigen, wie sie in der erkenntnistheore=
 tischen Reflexion sich darstellt, nämlich als Disjunktion von regres=
 sus in infinitum und zirkulärer Begründung. Der regressus in infinitum
 kommt daher, daß versucht wird, mit empirischen Mitteln etwas darzu=
-stellen(, was der Empirie transzendent ist, CS). Modell dafür ist der
+stellen (, was der Empirie transzendent ist, CS). Modell dafür ist der
 Versuch des Sklaven, das Problem, zu einem Quadrat ein zweites von
 doppeltem Flächeninhalt zu konstruieren, durch ein Näherungsverfahren
 zu lösen. Diese Disjunktion gibt zugleich zwei Bestimmungen der Idee,
-nämlich die, daß. sie sie selbst sind - Platon macht'es sich für einen
+nämlich die, daß sie sie selbst sind - Platon macht es sich für einen
 Philosophen einfach, indem er fragt nicht: was ist schön?, sondern:
 was ist die Schönheit selbst? Terminologisch zeichnet sich das nur da=
 durch aus, daß immer ein 'auto' hinter den Begriff gesetzt wird - und
 daß sie unendlich, d.h. der empeireia transzendent sind. Genauer: der
 regressus in infinitum ist die empirische Darstellung dieser Transzen=
 denz. Was der empirischen Darstellung transzendent ist, führt inner=
-
-A.
 
