@@ -1,0 +1,46 @@
+Die Konstruktion des Beweises setze voraus, daß man allerlei Linien
+ziehe, um so dann den zu beweisenden Satz auf den über kongruente
+Dreiecke zurückzuführen, und daß diese Linien weder aus dem Satz noch
+aus dem Gegenstand, über den dieser Satz formuliert ist, folgen. An=
+ders formliert: ein geometrisches Problem enthält nicht analytisch
+die Idee, die es ermöglicht, dieses geometrische Problem zu lösen.
+Das, was Hegel der Mathematik vorwirft, ist genau die Transzendenz
+der Beweisidee gegenüber dem, was bewiesen werden soll, und dem, wo=
+rüber etwas ausgesagt wird, also sowohl gegenüber dem Satz, der be=
+wiesen werden soll,als auch den Gegenstand, über den dieser Satz be=
+wiesen werden soll. Mir ist vor einiger Zeit gesagt worden, ich hätte
+mich bei der Darstellung des platonischen Beweises für die Konstruk=.
+tion eines Quadrats über der Diagonale eines Quadrats, wobei das Qua=
+drat über der Diagonale den doppelten Flächeninhalt hat wie das ur=
+sprüngliche Quadrat, ich hätte mich dabei mißverständlich ausgedrückt
+insofern ich nicht deutlich gemacht hätte, daß das iterative Verfah=
+ren, das aus der Problemstellung her versucht, das Problem zu lösen
+
+- erst doppelt so groß, geht nicht; dann anderthalbmal so groß, geht
+nicht; und so fort - , eben nicht die Lösung folgt. Das iterative
+Verfahren bricht nicht ab. Die Idee - und. dort direkt schlichte Be=
+weisidee ermöglicht die Konstruktion von etwas, das nach der Analyse
+des Problems auf einen unendlichen Regreß führt. Man kann sagen: die
+Beweisidee überholt diesen unendlichen Regreß. Diese Idee folgt mit
+keinen Mitteln aus der Problemstellung, und falls sie mit keinen Mit=
+teln aus der Problemstellung folgt, ist sie dieser Problemstellung
+transzendent. Wogegen Hegel polemisiert in der Vorrede zur Phänomeno=
+logie, ist genau gegen die Transzendenz oder das An-sich-Sein der
+Idee im mathematischen Beweis. Und das ist die Exposition zugleich.
+des Problems am Modell des Mathematischen, nämlich die des Verhält=
+nisses von Erkenntnis der Idee und Lösung eines Problems, das ohne
+diese Idee sich nicht lösen läßt. Bei Platon an der angegebenen Stel=
+le im 'Phaidros' ist es noch unentschieden, ob es sich um ein prakti=
+sches Problem handelt wie im Mythos vom Atridengeschlecht oder um ein
+theoretisches Problem. Die Aporie in beiden, die Ausweglosigkeit in
+beiden ist dieselbe. Was aus dieser Ausweglosigkeit hinausführt,
+bleibt nicht innerhalb desselben Bereichs, nicht innerhalb des Be=
+
+" reiches, in dem das Problem gestellt ist. Das gilt übrigens für die
+Mathematik, soweit sie nicht mit endlichen Mengen operiert, also
+nicht trivial argumentiert mit an den Fingern abzuzählenden Sachen,
+ganz allgemein. Aber das erforderte eine Darstellung der allgemeinen
+Beweistheorie, die dann Probleme ..gezeitigt hat, von denen Gödel hat
+beweisen können, daß die selbst-nicht mehr generell lösbar sind. Was
+nur eine andere Gestalt der Formulierung dessen ist, was bei Platon
+
