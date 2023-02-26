@@ -1,0 +1,44 @@
+Platon geschickt gewählt, weil es keine triviale Lösung hat. Denn das
+iterative Verfahren bricht wegen der Inkommensurabilität der Diagonale
+zu der Seite des Quadrats nicht ab: die Rechnung geht nicht auf. Das
+kann man ewig so weiter führen. Ehe man auf Wurzel aus 2 kommt, hat
+man eine unendliche Zahl von Schritten, man kann jeweils einen Schritt.
+weiter gehen und es genauer bestimmen. Das ist der Beweis für die In-
+kommensurabilität der Diagonale zu der Seite a, und wenn Sie sich das
+genauer ansehen wollen, möchte ich zur Orientierung nur angeben, wo
+gezeigt ist, daß das Verfahren nicht abbrechen kann: bei Otto Toeplitz
+in der "Geschichte der Infinitesimalrechnung". Es gibt sicherlich auch
+noch andere Darstellungen desselben Beweises. - Konvergenzkriterien
+für solche Folgen von Zahlen waren seinerzeit nicht bekannt. Sie set-
+zen aber die Beherrschung unendlicher Folgen voraus, also genau die
+Lösung des Problems, und die Lösung des Problems läßt sich in einer
+endlichen Zahl von Schritten nicht einfach finden. Die unendliche Fol-
+ge von Schritten, von der nicht einmal sicher ist, daß diese Folge ge-
+gen die Lösung des Problems konvergiert, weil die Lösung selbst nicht
+gegeben und ihre Existenz problematisch ist, wird ersetzt durch die
+Idee, das Quadrat über der Diagonale zu konstruieren. Das ist das, was
+ich Ihnen vorhin angedeutet habe. Üblicherweise wird diese Passage des
+'Menon' so interpretiert, daß Sokrates die Lösung aus dem Sklaven her-
+ausfrage, Schritt für Schritt frage er diese Lösung heraus. Wäre das
+so, dann wäre ja die Lösung aus der Problemstellung durch die methodi-
+sche Bearbeitung dieses Problems zu gewinnen. Die Idee - in dem Fall:
+das Quadrat über der Diagonale zu errichten - wäre selbst Resultat ei-
+nes Prozesses, der beim Gegebenen anhebt und in keinem Schritt darüber
+hinausführte. Jeder Schritt. wäre trivial. Um zu zeigen, daß der Sklave
+der Idee teilhaftig ist, darf Platon ihn diese Idee nicht konstruieren
+lassen, sondern Sokrates muß sie vorzeigen, und das ist dann auch der
+Gang des Dialogs: Sokrates macht dem Sklaven die Konstruktion vor und
+der Sklave sagt immer nur: ja, sehe ich ein. Um zu zeigen, daß der
+Sklave der Idee teilhaftig ist, darf Platon ihn diese Idee nicht kon-
+struieren lassen, er kann sie nur vorzeigen in Gestalt der Lösung des
+Problems und der Sklave kann nur die Wahrheit dieser Lösung erkennen.
+Er kann nur der Wahrheit der epagoge, der demonstratio, zustimmen.
+Epagoge ist Vorzeigen von etwas, Darstellung eines allgemeinen Ver-
+hältnisses in einer einzelnen Figur, ist nicht Induktion in unserem
+Sinne. Normalerweise: wird epagoge mit 'Induktion' übersetzt, das ist
+ein Begriff, der dem aristotelischen Denken völlig fremd ist, weil im-
+mer nur dargestellt wird, demonstriert wird ein Allgemeines in etwas,
+das für die Anschauung faßbar ist. Daß der Sklave die Wahrheit als
+Wahrheit erkennt, daß er der Idee teilhaftig ist, kann aber nicht aus
+der empirischen Darstellung dieser Idee selbst folgen. Denn die empi-
+
