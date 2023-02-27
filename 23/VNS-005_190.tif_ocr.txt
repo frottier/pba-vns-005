@@ -12,8 +12,8 @@ wiesen werden soll. Mir ist vor einiger Zeit gesagt worden, ich hätte
 mich bei der Darstellung des platonischen Beweises für die Konstruk-
 tion eines Quadrats über der Diagonale eines Quadrats, wobei das Qua-
 drat über der Diagonale den doppelten Flächeninhalt hat wie das ur-
-sprüngliche Quadrat, ich hätte mich dabei mißverständlich ausgedrückt
-insofern ich nicht deutlich gemacht hätte, daß das iterative Verfah-
+sprüngliche Quadrat, ich hätte mich dabei mißverständlich ausgedrückt,
+insofern ich nicht deutlich gemacht hätte, daß das [aus dem?] iterative Verfah-
 ren, das aus der Problemstellung her versucht, das Problem zu lösen
 - erst doppelt so groß, geht nicht; dann anderthalbmal so groß, geht
 nicht; und so fort -, eben nicht die Lösung folgt. Das iterative
