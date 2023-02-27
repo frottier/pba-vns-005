@@ -1,12 +1,12 @@
 eine erste Vorstellung von einer solchen Theorie der Interpretation
 geben. Es ist nicht so, daß jetzt einfach ein Kriterium anzugeben und
-zu begründen ist, mit dessen Hilfe die wahr von den falschen zirkulä-
+zu begründen ist, mit dessen Hilfe die wahren von den falschen zirkulä-
 ren Definitionen zu unterscheiden wären, denn ein solches Kriterium
 würde, wenn es wahr wäre, wiederum zirkulär definiert sein und müßte
 dann auf sich selbst angewendet werden, um zeigen zu können, ob es
 selbst wahr oder nicht wahr ist. Das liefe wieder auf das Problem der
 Erkenntnis der Erkenntnis im 'Charmides' hinaus und damit auf den Wi-
-dersprüch, daß jemand weiß, daß er weiß, aber nicht, was er weiß. Der
+derspruch, daß jemand weiß, daß er weiß, aber nicht, was er weiß. Der
 Fortschritt in der Argumentation vom 'Charmides' zum 'Menon' besteht
 gerade darin, daß die Notwendigkeit der intellektuellen Anschauung ei-
 ner Idee erkannt wird als Bedingung der Möglichkeit der Erkenntnis
