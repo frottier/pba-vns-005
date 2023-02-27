@@ -31,9 +31,9 @@ gen? Gefragt ist nach einem Kriterium, das die Handlungen unterteilt
 in solche, die der Tugend entsprechen und solche, die ihr nicht ent-
 sprechen. Das kann nicht aus den Handlungen selbst erkannt werden,
 denn sonst müßten die Handlungen sozusagen von sich aus konsistente
-Klassen bilden, und die Frage; Wie werden sie zusammengefaßt zu kon-
+Klassen bilden, und die Frage: 'Wie werden sie zusammengefaßt zu kon-
 sistenten Klassen, denen, die der Tugend entsprechen, und denen, die
-ihr nicht entsprechen, setzt immer schon die Unterscheidung der Hand-
+ihr nicht entsprechen?' setzt immer schon die Unterscheidung der Hand-
 lungen nach solchen, die der Tugend entsprechen und solchen, die ihr
 nicht entsprechen, voraus. Die autonome Bestimmung des Kriteriums für
 das Handeln führt auf die Tautologie, die zwar einen Inhalt hat, aber
