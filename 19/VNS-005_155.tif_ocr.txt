@@ -5,13 +5,13 @@ kennen. Die Frage nach der Erkenntnis dieses Inhalts führt wiederum
 auf einen Widerspruch, genauer: nicht die Frage nach der Erkenntnis
 dieses Inhalts, sondern die Frage danach, wie dieser Inhalt zu erkennen
 sei. 80d-81a: "Menon: Und auf welche Weise willst du denn dasjenige
-suchen, Sokrates, wovon du überhaupt gar nicht weißt,was es ist? Denn
+suchen, Sokrates, wovon du überhaupt gar nicht weißt, was es ist? Denn
 als welches Besondere von allem, was du nicht weißt, willst du es dir
-denn vorlegen und so suchen? oder wenn du es auch noch eo gut träfest,
+denn vorlegen und so suchen? Oder wenn du es auch noch so gut träfest,
 wie willst du denn erkennen, daß es dieses ist, was du nicht wußtest?"
 Gesucht ist immer noch nach dem autonom bestimmten Kriterium für die
 Handlungen. Wo ist danach zu suchen, wenn man dieses Kriterium noch
-nicht kennt? Erst ist die tautologische Bestimmung ad absurdum geführt
+nicht kennt? Erst ist die tautologische Bestimmung ad absurdum geführt,
 weil es keinen Bestimmungsgrund für den Inhalt gibt; jetzt wird gesagt:
 wenn ich's nicht schon weiß, woher soll das Wissen kommen? Das Nicht-
 wissen ist unbestimmt und Vieles ist sogar in sich widersprüchlich,
@@ -22,7 +22,7 @@ du sagen willst, Menon! Siehst du, was für einen streitsüchtigen Satz
 du uns herbringst? Daß nämlich ein Mensch unmöglich suchen kann, weder
 was er weiß, noch was er nicht weiß. Nämlich weder was er weiß, kann
 er suchen, denn er weiß es ja, und es bedarf dafür keines Suchens wei-
-ter; noch was er nicht weiß, denn es weiß ja dann auch nicht, was er
+ter; noch was er nicht weiß, denn er weiß ja dann auch nicht, was er
 suchen soll." An einem mathematischen Modell wird dann vorgeführt, daß
 das Suchen nach dem Wissen nicht zu diesem Wissen führt. Gefragt ist,
 wie zu einem gegebenen Quadrat ein zweites gefunden werden kann, des-
@@ -31,7 +31,7 @@ Quadrates. Dabei ist nicht gefragt, ob ein solches Quadrat aus dem Ge-
 gebenen sich konstruieren läßt, das heißt es ist gar nicht danach ge-
 fragt, ob die Lösung dieses Problems besteht. Sie kennen also dieses
 berühmteste und eines der ältesten Beispiele der Didaktik der Mathema-
-tik sicherlich. Ich male jetzt ein Quadrat, mach die Diagonale und er-
+tik sicherlich. Ich male jetzt ein Quadrat, mache die Diagonale und er-
 gänze dies zu einem Quadrat über der Diagonale; dann braucht man nur
 noch diese Linien hier zu ziehen, um gleich zu sehen, daß
 das genau den doppelten Flächeninhalt hat (...). Gesucht wird
@@ -40,5 +40,5 @@ gemacht, wird quadriert, kommt 4 a² heraus, kann also nicht
 der Flächeninhalt des gesuchten Quadrats sein. Und dann be-
 ginnt ein iteratives Verfahren: a gibt nur a², ist zu klein; 2 a gibt
 4 a² und nicht, wie gefordert, 2 a², ist zu groß; versuchen wir es mit
-1,5 a, ergibt 2,25 a², ist also ebenfalls zu.groß. Das Problem ist von
+1,5 a, ergibt 2,25 a², ist also ebenfalls zu groß. Das Problem ist von
 
