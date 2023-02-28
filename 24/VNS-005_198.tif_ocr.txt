@@ -9,7 +9,7 @@ des Problems nicht herausfinden kann. Genau dadurch wird ja für die
 Subjekte etwas zum Problem, daß sie nicht einfach konstatieren: das
 ist so und so, sondern daß sie meinen, anders nicht aus dem Problem
 herausfinden zu können als dadurch, daß sie es lösen. Die Tätigkeit,
-zu der das Subjekt provoziert wird, ist nicht richtungslose Tätigkeit
+zu der das Subjekt provoziert wird, ist nicht richtungslose Tätigkeit,
 sondern auf die Lösung als auf ihr Telos ausgerichtet, wenngleich
 diese Lösung nicht bekannt ist. Das Problem im 'Menon' war: wie kann
 ich etwas suchen, wenn ich nicht weiß, was ich suche, und wie kann
@@ -32,7 +32,7 @@ bei der das Telos nicht bekannt ist. Ist das Telos bekannt, so ist es
 nur eine Reproduktion. Deswegen sind auch alle Modelle, sowohl das
 Modell in der 'Politeia' wie das in der 'Metaphysik' des Aristoteles,
 also beide Modelle handwerklicher Tätigkeit falsch mit den vier Ur-
-sachen: causa materialis, das, woraus es gemacht wird, causa formalis
+sachen: causa materialis, das, woraus es gemacht wird, causa formalis,
 die Bestimmtheit dessen, was gemacht werden soll, causa efficiens,
 das, was wirklich diese Form realisierende Tätigkeit ist, und causa
 finalis, das, was die causa efficiens mit der causa formalis verbin-
@@ -40,5 +40,5 @@ det. Immer wird vorausgesetzt, daß die causa formalis objektiv gege-
 ben ist. Am Modell handwerklicher Tätigkeit kann man nur zeigen: Rad
 und Stuhl und Tisch sind immer schon erfunden und das Erfundene wird
 nur in der Materie noch einmal nachgebildet. Bei der Lösung eines ma-
-thematischen Problems ist das Gefundene aber nicht in der Form einer
+thematischen Problems ist das Gefundene aber nicht [in der Form einer] als
 
