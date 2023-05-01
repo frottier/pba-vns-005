@@ -18,7 +18,7 @@ ist eben die Vorstellung der platonischen Idee. Die platonische Idee
 ist also nicht nur virtuelle Erfüllung einer aus der Reflexion resul-
 tierenden subjektiven Forderung, sondern ebensosehr das, was Reflexion
 und Forderung erst begründet. Die Reflexion, weil gezeigt wird, daß die
-reine Reflexion gegenstandslos ist , und die Forderung nach Einheit von
+reine Reflexion gegenstandslos ist, und die Forderung nach Einheit von
 Gewißheit und Inhalt des Wissens. Als dieses Reflexion und Forderung
 erst begründende Argument ist sie (die Idee, CS?) von Platon explizit an
 die Vorstellung einer arbeitsteilig und kooperativ sich reproduzieren-
@@ -30,3 +30,5 @@ und was darum einen bestimmten Inhalt hat und einen bestimmten Gegen-
 stand. So ist diese Vorstellung selbst Voraussetzung und tertium compa-
 rationis von Reflexion und metaphysischer Idee.
 
+___
+Seite: 9
