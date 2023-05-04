@@ -42,3 +42,6 @@ ginnt ein iteratives Verfahren: a gibt nur a², ist zu klein; 2 a gibt
 4 a² und nicht, wie gefordert, 2 a², ist zu groß; versuchen wir es mit
 1,5 a, ergibt 2,25 a², ist also ebenfalls zu groß. Das Problem ist von
 
+___
+Seite: 4 (nummeriert als 5)
+Zeile 37-40: Zeichnung
