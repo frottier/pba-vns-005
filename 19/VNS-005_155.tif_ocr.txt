@@ -44,4 +44,5 @@ ginnt ein iteratives Verfahren: a gibt nur a², ist zu klein; 2 a gibt
 
 ___
 Seite: 4 (nummeriert als 5)
+Zeile 7: '8' unterstrichen, Hinweis auf falsche Angabe?
 Zeile 37-40: Zeichnung
