@@ -7,7 +7,7 @@ die Idee, die es ermöglicht, dieses geometrische Problem zu lösen.
 Das, was Hegel der Mathematik vorwirft, ist genau die Transzendenz
 der Beweisidee gegenüber dem, was bewiesen werden soll, und dem, wo-
 rüber etwas ausgesagt wird, also sowohl gegenüber dem Satz, der be-
-wiesen werden soll, als auch den Gegenstand, über den dieser Satz be-
+wiesen werden soll, als auch dem Gegenstand, über den dieser Satz be-
 wiesen werden soll. Mir ist vor einiger Zeit gesagt worden, ich hätte
 mich bei der Darstellung des platonischen Beweises für die Konstruk-
 tion eines Quadrats über der Diagonale eines Quadrats, wobei das Qua-
@@ -18,7 +18,7 @@ ren, das aus der Problemstellung her versucht, das Problem zu lösen
 - erst doppelt so groß, geht nicht; dann anderthalbmal so groß, geht
 nicht; und so fort -, eben nicht die Lösung folgt. Das iterative
 Verfahren bricht nicht ab. Die Idee - und dort direkt schlichte Be-
-weisidee ermöglicht die Konstruktion von etwas, das nach der Analyse
+weisidee - ermöglicht die Konstruktion von etwas, das nach der Analyse
 des Problems auf einen unendlichen Regreß führt. Man kann sagen: die
 Beweisidee überholt diesen unendlichen Regreß. Diese Idee folgt mit
 keinen Mitteln aus der Problemstellung, und falls sie mit keinen Mit-
@@ -42,3 +42,6 @@ Beweistheorie, die dann Probleme gezeitigt hat, von denen Gödel hat
 beweisen können, daß die selbst nicht mehr generell lösbar sind. Was
 nur eine andere Gestalt der Formulierung dessen ist, was bei Platon
 
+___
+Seite: 7 (nummeriert als 8)
+Zeile 16: Grammatisch unklarer Satz
