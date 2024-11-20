@@ -1,0 +1,159 @@
+[SOURCE_ID:VNS-005_084] Peter Bulthaup Vorlesung zu Mythos und Logos 24.11.1981
+
+In der letzten Vorlesung habe ich Ihnen die Exposition der Orestie und damit auch die des Teils der Orestie, des 1. Teils der Orestie, der Tragödie 'Agamemnon', darzustellen versucht - die Exposition der Orestie als Exposition für die Orestie, nicht als Exposition, wie sie als Teil des 1. Teils der Trilogie, des 'Agamemnon', in dieser Tragödie selbst erscheint. Jede Tragödie hat für sich eine Exposition, aber der Fluch, der auf dem Haus der Artriden liegt in seinen drei Variationen, und auch auf Agamemnon liegt, erscheint nicht zu Anfang der Tragödie 'Agamemnon'. Im Folgenden ist es etwas schwierig, es ist fast durchweg Agamemnon metonym gebraucht für die Tragödie und nicht für die Person.
+Die Schwierigkeit der Darstellung in der Vorlesung heute besteht nun darin, daß das, was Exposition für die Tragödie ist, durchaus in der Tragödie vorkommt, aber nicht in dem Teil, der als Exposition bezeichnet wird. In der Tragödie, also in der Form der Tragödie, soll die Exposition Darstellung der Vorgeschichte sein, Darstellung dessen, was zu dem weiteren Verständnis notwendig ist.
+Aber genau die Darstellung dieser Vorgeschichte erscheint in der Exposition des 'Agamemnon' nicht. Würde sie dort erscheinen, dann gäbe es eine Kontinuität von Vorgeschichte für die Tragödie und der Tragödie selbst. Der Stoff, der Mythos, der Tragödie wäre zurückgenommen auf den Mythos des Epos, die Tragödie selbst eine bloß dramatische Darstellung des epischen Nacheinanders, und es bliebe in der Erzählung oder in der dramatischen Darstellung verschiedener Ereignisse bei der Wiederholung desselben Schemas dieser Ereignisse. Eine Schuld, die Vergeltung fordert und die Vergeltung erzeugt neue Schuld - das ist bei Adorno gemeint mit der Bestimmung des Mythos als der Wiederholung des Immergleichen. Mythos als Wiederholung des Immergleichen heißt also nicht, daß immer dieselbe Geschichte erzählt wird, sondern daß das Schema dieser Geschichte immer dasselbe ist und daß sich die Schuld in der Vergeltung wiederherstellt.
+Die Tragödie aber hat eine Katastrophe, also eine Wendung, einen Umsturz, als zentrale Bestimmung und die durchbricht das Kausalverhältnis: Schuld - Vergeltung gleich neuer Schuld - Vergeltung usw. Es muß unterschieden werden dort, daß die Tragödie eine Wendung, einen Umsturz hat, das ist die Katastrophe, und der Ort in der Tragödie, an dem das stattfindet, das ist die Peripetie.
+Die Peripetie leitet jeweils die Wendung oder den Umsturz ein. Das lineare Verhältnis von Schuld - Vergeltung gleich neuer Schuld - [SOURCE_ID:VNS-005_085] Vergeltung usw. ist, was die Form dieses Verhältnisses angeht, Wiederholung des Schemas - oder, weil Vergeltung wieder gleich Schuld ist, ein Schema, das sich um sich selbst dreht, das zirkulär ist. Es endet immer wieder bei dem, mit dem es angefangen hat.
+Die Linearität der Ereignisse und die Zirkularität des Schemas lassen dann Stoff, in dem das Schema linear dargestellt wird, und Form, die Zirkularität des Schemas, auseinanderfallen. Soll die Zirkularität des Schemas zur Bestimmung des Stoffes werden, dann ist dieser nicht mehr linear darzustellen. Soll außerdem die Katastrophe begründet sein, dann reicht dazu das zirkuläre Schema nicht aus. Der Grund für die Wende ist nicht Notwendigkeit, sondern Kausalität aus Freiheit. Notwendigkeit wäre die immergleiche Wiederholung des Schemas. Dann wäre aber Vergeltung = Schuld, Schuld = Vergeltung eine endlose Kette. Ist es mit der Bestimmung der Katastrophe als Wende ernst gemeint, dann muß in der Tragödie, ihrer bloßen Form nach, etwas anderes geschehen als die lineare Fortsetzung des Verhältnisses von Schuld und Vergeltung. Das, was Grund der Durchbrechung des Schemas der linearen Fortsetzung ist, kann also nicht in diesem Schema selbst liegen, sondern muß diesem Schema transzendent sein, und ich habe es Kausalität aus Freiheit genannt. Kausalität aus Freiheit aber kann nicht von der Ursache her begründet werden, sondern nur vom Resultat. Die Form der Darstellung des Grundes einer Handlung ist dann die Rechtfertigung der Handlung, nachdem sie abgelaufen ist. In der linearen Darstellung ist der Grund das Frühere, bei der Kausalität aus Freiheit aber erscheint der Grund erst im Resultat. Kausalität aus Freiheit ist nur durch den traditionellen Begriff der causa finalis zu fassen und damit wird das Spätere, das Ende, zum Grund des Früheren, aber nicht zur Ursache des Früheren, sondern zum Grund der Bestimmung des Früheren.
+Diese formale Bestimmung erscheint in der - auch in der Tragödie notwendig linearen - Darstellung als Wende, deren Grund, die Kausalität aus Freiheit, aber der Darstellung transzendent bleibt, - so daß es eben aufgrund der Kausalität aus Freiheit in der Darstellung keine Kontinuität von Exposition und Katastrophe gibt.
+- Es kann sie nicht geben. Aristoteles hat sich den Kopf darüber zerbrochen, wie innerhalb der Tragödie die Einheit des Mythos, die Einheit der Erzählung zu bestimmen sei und kommt jeweils auf disparate Bestimmungen, die nicht zusammengehen können der Formbestimmung nach, weil das, was dem Grunde nach Kausalität aus Freiheit ist, in der Erscheinung, in der Darstellung, erscheinen muß als etwas, was dem Schema von Ursache und Wirkung sich nicht fügt, also dem gegenüber zufällig ist. -
+[SOURCE_ID:VNS-005_086] Jetzt möchte ich dazwischenschalten einen Exkurs zu der Bestimmung Hölderlins, die Tragödie sei "Metapher einer intellektuellen Anschauung".
+Intellektuelle Anschauung heißt bei Kant: mit dem Prinzip ist die Mannigfaltigkeit dessen, dessen Prinzip es ist, gegeben. In der Erkenntnis des Prinzips ist zugleich die Erkenntnis der Mannigfaltigkeit enthalten, in der Erkenntnis Gottes die der Welt. Kausalität aus Freiheit heißt: Der Wille ist nicht durch empirisch faßbare Fakten bestimmt, nicht determiniert, und ist bestimmbar durch die Gesetzgebung der Vernunft, durch den kategorischen Imperativ und das Sittengesetz. Das verhülfe wenig, wenn der so bestimmte Wille sich nicht entäußern, sich nicht realisieren könnte. Entäußern, realisieren kann er sich aber nur unter empirischen Bedingungen.
+Die Kompatibilität, die Verträglichkeit von vernünftiger Bestimmung des Willens und der empirischen Bedingungen seiner Entäußerung wäre nur denkbar, wenn entweder diese Bedingungen selbst von dem so bestimmten Willen hervorgebracht würden - dann wäre der Wille aber zugleich creator, und zwar creator ex nihilo der Bedingungen seiner Realisierung - oder wenn die Bedingungen von sich aus so wären, daß sie mit dem vernünftig bestimmten Willen übereinstimmten.
+Das erste wäre ein lineares Grund-Folge-Verhältnis: der Wille ist Grund und Grund der Bedingungen seiner Realisierung und er kann sich deswegen einfach entäußern. Das zweite, daß der vernünftig bestimmte Wille und die empirischen Bedingungen seiner Realisierung kompatibel seien, bedürfte eines tertium comparationis von Wille und empirischen Bedingungen seiner Realisierung, oder eines transzendenten Grundes, aus dem beide folgten. Dieses 'oder' ist ein lateinisches 'vel', also, wenn es einen transzendenten Grund gibt, der sowohl Grund der vernünftigen Bestimmung des Willens ist als auch Urheber der empirischen Bedingungen der Realisierung dieses vernünftigen Willens, dann ist dieser Grund zugleich tertium comparationis von vernünftiger Bestimmung des Willens und den empirischen Bedingungen seiner Realisierung. Dieser Grund wäre die Einheit von Freiheit und empirischer Realität - und als Einheit von Freiheit und empirischer Realität, weil Freiheit eben kein Gegenstand möglicher Erfahrung ist, Gegenstand der intellektuellen Anschauung.
+Als Gegenstand der intellektuellen Anschauung wäre er aber zugleich Grund eines nun in die Metaphysik transponierten linearen Verhältnisses von Grund und Folge. Dann wäre eben Gott zugleich Urheber der Welt und der vernünftigen Bestimmung des Willens.
+- Das ist eine Erklärung, die bei Kant in der 'Kritik der praktischen [SOURCE_ID:VNS-005_087] Vernunft' steht, als 2. Postulat der reinen praktischen Vernunft, in dem der Grund der vernünftigen Bestimmung des freien Willens der Menschen zugleich der Grund der Existenz der empirischen Bedingungen der Realisierung dieses Willens ist.
+Das taucht bei Kant aber nur auf als Postulat der reinen praktischen Vernunft; als Voraussetzung dafür, daß der vernünftig bestimmte Wille auch auf Gegenstände trifft, in denen er sich realisieren kann. Sofern ist es Postulat der Moral überhaupt, denn sonst bleibt nur der vernünftig bestimmte Wille ohne Möglichkeit der Entäußerung.
+Wenn also bei Hölderlin steht, das sei eine Metapher: die Tragödie, also das tragische Gedicht, sei eine Metapher einer intellektuellen Anschauung, dann steckt darin, daß der Gegenstand dieser intellektuellen Anschauung die Einheit von menschlicher Freiheit und empirischer Realisierung des vernünftig bestimmten Willens der Menschen ist. Deswegen steht bei Hölderlin, die Tragödie sei Metapher einer intellektuellen Anschauung.
+
+Der Grund für die Wende ist dem dargestellten Mythos, der dargestellten Erzählung, transzendent. Er ist Kausalität aus Freiheit und deswegen mußte ich an der Stelle den Exkurs über Kausalität aus Freiheit und Bedingungen der Realisierung des vernünftig bestimmten Willens machen. Soweit der Exkurs.
+
+Daß der Grund der Wende der dargestellten Handlung transzendent bleibt, hat die Inkonsistenz von Exposition und Katastrophe zur Folge - oder die Katastrophe, die Umwendung, ist diese Inkonsistenz selber. Dazu ein Zitat aus der Poetik des Aristoteles, IX. Kapitel, da heißt es: "Unter den einfachen Fabeln und Handlungen sind die episodischen die schlechtesten." Die episodischen sind solche, die Episoden aufzählen, eigentlich Kataloge von Episoden sind.
+"Ich bezeichne die Fabel als episodisch, in der die Episoden (epeisódia) weder nach der Wahrscheinlichkeit noch nach der Notwendigkeit aufeinanderfolgen," - also nur formal zusammengefaßt oder aufgezählt werden. "Solche Handlungen werden von den schlechten Dichtern aus eigenem Unvermögen gedichtet, von den guten aber durch Anforderungen der Schauspieler." Das hat sich bis in spätere Zeiten nicht verloren. Der Darsteller des Escamillo in der Carmen wollte partout ein schmissiges Auftrittslied haben und da Bizet auch von Auftraggebern abhängig war, finanziell abhängig war, hat er ihm dann dieses Ihnen allen bekannte Lied mit der Bemerkung "Wenn ihr Scheiße haben wollt, kriegt ihr auch Scheiße' komponiert.
+[SOURCE_ID:VNS-005_088] Über die Häufigkeit des Auftretens ausgerechnet dieses Stückes aus der 'Carmen', die im übrigen eine großartige Oper ist, in Wunschkonzerten können Sie sich eine Vorstellung machen, was Aristoteles damit meint. "Denn wenn sie Deklamationen dichten und die Fabel über ihre Wirkungsmöglichkeiten (dynamis) hinaus in die Länge ziehen, dann sind sie oft gezwungen, den Zusammenhang zu zerreißen." Bizet hat das nicht ganz neu komponiert, sondern er hat Motive aus der Oper genommen und daraus eben diesen schmetternden Marsch gemacht, an einer Stelle, in der der musikalische Zusammenhang dadurch zerrissen wird. - "Die Nachahmung hat nicht nur eine in sich geschlossene Handlung zum Gegenstand, sondern auch Schaudererregendes (phoberá)
+und Jammervolles (eleeiná). Diese Wirkungen kommen vor allem dann zustande, wenn die Ereignisse wider Erwarten (pará ten doxan) eintreten und gleichwohl folgerichtig auseinander hervorgehen."
+Sie sollen wider Erwarten eintreten - also nicht erkennbare Folge des Vorherigen sein - und zugleich folgerichtig eintreten. Da haben Sie die beiden Bestimmungen, die in der Katastrophe zum Ausdruck kommen und die eigentlich nur zulassen, daß, wenn es denn einen Sinn hat, der Grund der Katastrophe nicht in dem Dargestellten selbst liegt. "So haben sie nämlich mehr den Charakter des Wunderbaren (thaumastón), als wenn sie in wechselseitiger Unabhängigkeit und durch Zufall vonstatten gehen (...)." Der Charakter des Wunderbaren bezeichnet hier genau das transzendente Moment, das qua Kausalität aus Freiheit das Disparate dann doch noch zusammenhalten soll, aber hier nur unter dem Titel des Wunderbaren oder des Erstaunlichen.
+Soweit die Stelle aus der Poetik. - Was in der Exposition für Agamemnon, wie ich sie Ihnen vortrug, die Unvereinbarkeit von Hybris und Mäßigung war, die auf eine identische Person, die des Agamemnon, bezogen zum Gegensatz wird, erscheint in der Konstruktion der Tragödie als miteinander unvereinbare Formbestimmungen. Die dramaturgische, (also) ästhetische Lösung des diskursiv nicht lösbaren Problems erscheint im 'Agamemnon', also in der Tragödie, in der Gestalt der Kassandra, der Seherin, der niemand glaubt. Leider ist dazu noch ein zweiter Exkurs notwendig, nämlich kurz zu skizzieren, wer Kassandra ist.
+Kassandra ist die Tochter des Priamos, die Priesterin des Apollon war. Apollon hat versucht sie zu verführen; - und da kann ich mir also doch den systematisch überflüssigen Vergleich zweier Stellen derselben Übersetzung nicht verkneifen. In der von Droysen heißt es: Kassandra : "Es gab Apollon mir, der Seher, dieses Amt" - Apollon ist der Gott aller Seher und er gab ihr das Amt der Seherin. - Chor: "Vielleicht, ein Gott er, dir in Liebe doch besiegt?" Kassandra: "Vor diesem hab ich mich geschämt, [SOURCE_ID:VNS-005_089]
+            das zu gestehn.
+Chor:       Zu zartgewöhnt sind freilich alle Glücklichen.
+Kassandra:  Mein Buhle war er! Und er hat mich sehr geliebt!
+Chor:       Und hat der Gott in seiner Liebe dich erkannt?
+Kassandra:  Versprochen hatt' ichs, und belog den Loxias!
+Chor:       Da du der gotterfüllten Kunst schon mächtig warst?
+Kassandra:  Ja; schon verhieß ich meinem Volke jedes Leid.
+Chor:       Ließ ohne Strafe dich der Zorn des Loxias?
+Kassandra:  Es glaubte niemand nichts mir, seit ich das getan!
+Chor:       Uns wahrlich scheinst du gar zu wahr zu prophezeien!
+(Droysen, 1202ff)
+In der Nestle-Übersetzung heißt es:
+
+Kassandra:  Es gab Apollon mir, der Seher, dieses Amt.
+Chor:       Es traf doch des Verlangen Pfeil nicht ihn, den Gott?
+Kassandra:  Bis heute hab ich mich geschämt, das zu gestehn.
+Chor:       Ja, allzufein ist jeder, dem es besser geht.
+Kassandra:  Er rang um mich gewaltig, atmend heiße Huld.
+Chor:       Und hat der Zeugung heilig Werk euch dann geeint?
+Kassandra:  Versprochen hatt' ich's, doch ich belog den Loxias.
+
+Sie sehen, die erste Übersetzung von Droysen - das andere ist eine Überarbeitung der Übersetzung von Droysen - ist schamvoll, puritanisch, und wiederholt genau das, was der Chor der Kassandra vorwirft: das manche sich zu fein sind, es zu gestehen.
+
+Kassandra, Tochter des Priamos, ist Priesterin des Apollon, der sie zu verführen sucht. Er verspricht ihr die Gabe der Seherin, wenn sie sich ihm fügt, sie nimmt die Gabe an, verweigert sich dann aber.
+Worauf Apollon sie wegen dieses Betrugs mit dem Fluch belädt, daß sie zwar als Seherin die Wahrheit sprechen, aber niemand ihr glauben werde. Ihre eigene Lüge wird so zu der Bestimmung, unter der sie dann anderen erscheint: zu der Bestimmung, der generellen, sie sei eine Lügnerin.
+Das ist aber zugleich eine Bestimmung des Rätselcharakters aller Weissagungen, die zweideutig sind und deren Deutung darum willkürlich ist. An der Stelle, wo sonst in der Tragödie die Erkenntnis der Wahrheit durch irgendeinen Akt der Wiedererkennung erfolgt, steht in der Tragödie 'Agamemnon' eine lange Partie - teils Monolog der Kassandra, teils Wechselgespräch Kassandra/Chor - die genau dieselbe Funktion übernimmt, nur daß zugleich gesagt wird, der Rätselcharakter oder die Zufälligkeit der Wiedererkennung ist [SOURCE_ID:VNS-005_090] begründet in der Zweideutigkeit der Gabe einer Seherin selbst.
+Aristoteles bestimmt den unmittelbaren Grund der Wende in der Tragödie als Wiedererkennung. Poetik, XI. Buch: "Die Peripetie ist, wie schon gesagt wurde, der Umschlag (metabolé) dessen, was erreicht werden soll, in das Gegenteil, und zwar, wie wir soeben sagten, gemäß der Wahrscheinlichkeit oder mit Notwendigkeit. (...)
+Die Wiedererkennung ist, wie schon die Bezeichnung andeutet, ein Umschlag von Unkenntnis in Kenntnis, mit der Folge, daß Freundschaft oder Feindschaft eintritt, je nachdem die Beteiligten zu Glück oder Unglück bestimmt sind. Am besten (kalliste) ist die Wiedererkennung, wenn sie zugleich mit der Peripetie eintritt, ..."
+- und nicht nur, wenn sie mit der Peripetie eintritt, sondern wenn sie aus dem Vorhergehenden folgt. Im 'Agamemnon' ist die Funktion der Wiedererkennung übertragen auf die Wandlung der Seherin Kassandra. Grund dafür ist, daß Kassandra ihre eigene Ermordung voraussieht und in dem Entsetzen davor die Vorsicht der Verrätselung der Weissagung fahrenläßt. Erst sagt der Chor: (1132ff)
+"Hat eines Sehers Wort guten Bescheid denn uns Sterblichen je gesandt? Im Leid selbst erst Lässet verstehn ihr vieldeutiger Spruch Die gottgeweissagte Furcht!"
+Also erst im Resultat kommt heraus, was mit dem Spruch gemeint war. Genau das auch ist die Funktion der Wiedererkennung: erst im Resultat kommt heraus, wozu sie da ist. Dann heißt es weiter:
+Chor: "Dich hat ein Gott verwirrt."
+Als sie aber den eigenen Tod prophezeit (1160ff):
+Kassandra: "Nun glaub ich, am Kokytos, an des Acheron
+            Felsufern werd ich singen meine Sprüche bald!"
+Kokytos ist, wie Acheron, einer der Flüsse, die das Reich des Hades begrenzen, der Fluß des Jammers. -
+Erst als sie ihren eigenen Tod voraussagt, wird ihr wieder geglaubt. Vorher war ja nicht nur diese Seherin mit dem Fluch beladen, daß ihr nicht geglaubt wurde, sondern der Grund dafür lag in der Weissagung selbst, in der Zweideutigkeit der Weissagung. Wie ja dann auch Aischylos selbst sagt: "...Im Leid selber erst / Lässet verstehn ihr vieldeutiger Spruch / Die gottgeweissagte Furcht!"
+Explizit, nach der Voraussage ihres eigenen Todes, sagt die Seherin nun die Wahrheit. Sie sagt nicht nur die Wahrheit, sondern sie sagt auch, daß sie die Wahrheit sagen will.
+Kassandra (1180ff): "So wird fortan nicht unter Schleiern mehr hervor
+                    Die Verheißung blicken gleich der neuvermählten Braut;
+                    Ein heller Frühwind, wird sie wach, dahinzuwehn
+                    Gen Sonnenaufgang, das den Meereswellen gleich
+                    Bei dieser Blutschuld erster Strahl es mächtig aufbraust:
+[SOURCE_ID:VNS-005_091]
+                    Verkünden will ich nicht in Rätseln mehr!
+                    Und seid mir Zeuge, daß ich, jeder Spur gewiß,
+                    Des altverübten Frevels Fährte wittere.
+                    Denn dieses Haus läßt nimmermehr der grause Chor,
+                    Der, laut und doch mißlautig, Frohes nimmer singt.
+                    Denn, voll und trunken bis zum frechsten Übermut
+                    Vom Menschenblut, ein Trinkgelage haust im Haus,
+                    Der Erinnyen schwer zu bannender, sippenrächender Schwarm;
+                    An den Leichen sitzend, singen sie's als Zecherlied,
+                    Den alten Blutgreuel, dann und dann hohnspeiend den,
+                    Der seines Bruders Ehebett geschändet hat!
+                    Verfehl ich's, treff ich's, wie die Jägerin ihr Wild?
+                    Und Lügenseherin, Bettelprophetin, sprich, bin ich's?
+                    Schwör mir zuvor zu zeugen, daß ich klar gewußt
+                    Von dieses Hauses altgeerbter Frevelschuld!
+Chor:               Wie mag des Eides noch so fest geschürzter Schwur
+                    Noch helfen? Doch bewundre ich dich, daß, über Meer
+                    die Sprache, fremden Landen, geboren
+                    Alles du genau berichtet, gleich als hättest du's gesehn!"
+So erscheint hier in der Wiedererkennung, indem Kassandra nicht mehr durch den Schleier, nicht mehr durch die Verstellung im Rätsel, sondern offen sagt, was zuvor geschah, ein Teil der Vorgeschichte der Tragödie. Sie erscheint aber als heillos zerrissen in Erinnerungsfetzen, Erinnerungsfetzen an Greuel, als Ausdruck des Grauens vor dem, was dem zivilisierten Zustand zu Grunde lag. Die rätselhafte Form der Darstellung in den Sehersprüchen zuvor war Schein der Konsistenz dessen, was geweissagt wurde. Die offenbare Darstellung zerreißt die Einheit, und das ist auch ein Durchbrechen des Schemas von Ursache und Wirkung, der Wirkung, die selber wieder Ursache ist; denn der Grund der notwendigen Folge von Schuld - Vergeltung und Wiederherstellung der Schuld in der Vergeltung - sind eben die Greuel, die Frevel, die sie jetzt offen nennt. Der Schein von logischer Konsistenz in den Rätselsprüchen war hergestellt, weil sie nicht eindeutig, weil sie nicht offenbar waren und interpretierbar waren. - Interpretierbar dann auch auf das hin, was dieser oder jener sich von dem Rätselspruch versprach. Dann wird etwas, was der Sache nach rätselhaft, mehrdeutig ist, interpretiert hin auf eine Eindeutigkeit. Dabei ist dann die Eindeutigkeit Schein, nicht der rätselhafte Charakter des Spruches selbst. Die Seherin sieht nicht einfach in die Zukunft, sondern sie sieht in der Zukunft nur die Fortsetzung der Vergangenheit, das Andauern der Greuel [SOURCE_ID:VNS-005_092] der Vergangenheit in Gegenwart und Zukunft. Was die Erinnerung an die Greuel, die Darstellung der Erinnerung, an diese Greuel bewirken soll, hat Aischylos selbst benannt: Schauder vor der Vergangenheit (1212):
+Kassandra: "Bei niemand fand ich Glauben, seit ich so gefehlt!
+Chor:       Uns wahrlich scheinst du gar wahr zu prophezeien!
+Kassandra:  O Gott! Weh! Qualen!
+            Auf reißt mich wieder der Begeistrung wilder Schmerz!
+            Im jähen Wirbel stürmen Sprüche wirr hervor!
+            Ha! seht ihr die dort sitzen vor der Tür, so still,
+            So jung, wie Traumes Truggestalten nebelhaft
+            Zwei Knaben, tot, von blutsverwandter Hand gewürgt
+(Erinnerung an die Greuel, die der Atreus verübt hat an den Söhnen des Thyestes, P.B.)
+            Die kleinen Hände mit des eignen Fleisches Kost,
+            Der eignen Eingeweide jammervolles Mahl
+            Gefüllt, davon der eigne Vater gessen hat?
+            Und einer sinnt jetzt auf Rache, sag ich dir,
+            Ein feiger Löwe, fremden Bett's sich pflegender
+            Heimsitzender, Rache meinem heimgekehrten Herrn
+            Ja meinem - tragen muß ich ja das Sklavenjoch!"
+Das ist also in den Erinnerungsfetzen dort Erinnerung an die Vorgeschichte von Atreus und Thyestes und deren Gegenwart in dem Aigisthos, der als einziger dieser grauenvollen Metzelei entkam. Der Chor erkennt daran:
+           "Das Mahl Thyestes von der eigenen Kinder Fleisch
+           Erkannt ich, und mich schaudert; Furcht bewältigt mich,
+           Also zu hören, was der Wahrheit nur zu gleich;
+           Doch für das andre, da verlier ich jede Bahn!
+Es werden erwähnt die alten Greuel, diese alten Greuel sind dem Chor - und der Chor sind die Greise, die nicht mit ausgezogen sind in den Trojanischen Krieg - von Argos ... - und der Chor repräsentiert nicht das Volk, aber schon den Stand der Freien.
+Vor der Aussicht auf die Fortsetzung der Greuel verliert der Chorführer jede Bahn, jede Perspektive, das Bewußtsein bleibt ihm ohnmächtig vor dem fortgesetzten Grauen der Realität. Agamemnon ist heimgekommen und sie weissagt, daß er jetzt erschlagen wird von Klytaimnestra, die sich mit dem Aigisthos zusammengetan hat.
+Wenn dann Kassandra den Seherstab zerbricht und die Binde, auch ein Abzeichen der Seherin, abstreift, kündigt sie das Einverständnis mit dem Grund ihrer Gabe - auch aus dem Grund, weil der [SOURCE_ID:VNS-005_093] Grund ihrer Gabe, nämlich das Fortdauern des Schemas von Schuld und Vergeltung, sie selbst dem Greuel der Ermordung überantwortet. Es heißt dort (1256ff):
+Kassandra: "Weh! Weh! O welches Feuer faßt mich an!
+            Ach, Ach, Apollon Lykeios! Weh mir, weh!
+            Da die, die Menschenlöwin, die geschlafen hat
+            Beim Wolf (Klytaimnestra bei Aigisthos), da fern der hochgeborne Löwe war (Agamemnon),
+            Mich Arme will sie töten, will zu ihrem Haß
+            Ihm, ach! in den Gifttrank mischen auch den Lohn für mich;
+            Sie wetzt das Messer ihrem Herrn, sie rühmt sich laut:
+            Mord soll es rächen, daß er mich hat mitgebracht!
+            Was trag ich länger mir zum Gespött den heilgen Schmuck,
+            Den Stab noch und des Sehers Binde um die Stirn?"
+Die Binde um die Stirn war wohl nicht nur eine Binde um die Stirn, sondern auch eine Binde vor den Augen. Der blinde Seher hat eine große Tradition in der Antike - der, der das Unmittelbare nicht sieht, sieht in die Zukunft. -
+Kassandra: "Fort! eh der Tod mich fasset, brech ich dich entzwei!
+            Euch werf ich hin, verderbet! So vergelt ich euch;
+            Bringt einer andren denn euer Glück an meiner statt."
+- Sie zerbricht den Stab und wirft die Stirnbinde zur Erde -
+           "Da sieh, Apollon ist's, der mir mein Seherkleid
+           Nun selber auszieht, der auf mich herniedersah,
+           Als Freund und Feind mich diesem heilgen Schmuck zum Trotz
+           Gar sehr verlachten, unverhohlen, wahnbetört!
+           Gescholten Törin, Bettlerin, Lügenzauberweib,
+           Wahnwitzig, elend, hungersterbend - ich ertrug's!
+           Nun führt der Seher mich, die Seherin hierher,
+           Daß meine Schuld ich zahle, her zum Untergang.
+           Statt meiner Väter Altar harret mein der Block,
+           Darauf meinen Nacken treffen wird der blut'ge Streich.
+           Jedoch wir sterben nicht den Göttern ungerächt;
+           Denn wieder wird einst unser Rächer nahe sein,
+           Der Muttermörder, der des Vaters Mord vergilt;
+           Ein irrer Flüchtling, kehrt er aus der Fremde heim
+           Und setzt den Schlußstein aller Schuld der Seinigen."
+Das ist die Weissagung für den Orest, der zurückkommen wird, die Mörderin seines Vaters, seine Mutter, umbringen wird, aber zugleich [SOURCE_ID:VNS-005_094] - und das ist die Vorwegnahme des Endes der Trilogie - das Verhältnis von Schuld, Vergeltung und neuer Schuld aufheben wird durch den Spruch des Aeropag.
+Die Gabe der Seherin beruht auf der Kausalität der Reproduktion des immergleichen Schemas. Im Mythos von der Befreiung der Menschheit ist das klar formuliert: in einer Tragödie, der vom "Gefesselten Prometheus", die selbst Aischylos zugeschrieben wurde, aber, soweit man den Philologen trauen kann, nicht von ihm, sondern von seinem Sohn geschrieben worden ist.
+Prometheus, Vers 248 ff:
+           "Ich nahm's den Menschen, ihr Geschick vorauszusehn
+Chor:       Sag, welch ein Mittel fandest du für dieses Gift?
+Prometheus: Der blinden Hoffnung gab ich Raum in ihrer Brust."
+Daß die Negation der Gabe, das Schicksal vorauszusehn, und Hoffnung, wenn auch blinde Hoffnung, einander komplementär sind, sagt etwas aus über den Grund, durch den es überhaupt möglich war, das Schicksal vorauszusehen: nämlich die ewig gleiche Folge von Schuld, Vergeltung und neuer Schuld.
+Chor:        "Ein großes Gut ist's, das du gabst den Sterblichen.
+Prometheus:   Und bot zum andern ihnen dar des Feuers Kunst.
+Chor:         Die Tageskinder kennen jetzt der Flamme Blick?"
+Das Licht der Flamme, das Prometheus den Göttern stahl, um es den Menschen zu schenken, ist doppelt, und das ist ausführlich im "Gefesselten Prometheus" ausgeführt. Es ist ein Mittel zu technischen Zwecken und es ist das Licht, über das sie nun selbst verfügen. Nicht nur wenn Tag ist, wenn ihnen das Licht aufgrund des Naturablaufes geschenkt wird, sondern auch in der Nacht verfügen sie über dieses Licht. Es ist ihr lumen naturale, die Vernunft, die zusammen mit der Technik die Hoffnung begründet, den mythischen Bann zu durchbrechen.
+Die Erinnerung an das Grauen soll die Menschen vor dem Rückfall in den Bann bewahren. Das ist genau die Funktion - und zwar die rituelle oder religiöse Funktion, die die Tragödie in Athen hatte. Schauder und Schrecken waren Schauder und Schrecken vor dem, wohinein der Rückfall drohte. Die Erinnerung an das Grauen soll die Menschen vor dem Rückfall in den Bann bewahren, der, so die Auffassung von Aischylos, in der Polis gebrochen ist.
+Die Notwendigkeit der Tragödie, ihre Funktion in der Polis aber erweist die Transzendenz der Polis selbst als brüchig, als ruhend auf einer Grundlage, die selbst noch von dem Grauen bestimmt ist.
