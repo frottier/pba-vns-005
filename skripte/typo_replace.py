@@ -13,12 +13,13 @@ if not os.path.isfile(input_file):
     sys.exit(1)
 
 # parameters
-context_length = 40
+context_length = 42
 replacements = {'HYPHEN-MINUS': r'\s-\s',
                 'QUOTATION MARK open': r'(^|\s)"',
                 'QUOTATION MARK close': r'\S"',
                 'SINGLE QUOTE open': r"(^|\s)'",
-                'SINGLE QUOTE close': r"\S'"}
+                'SINGLE QUOTE close': r"\S'",
+                'APOSTROPHE': r"\S'"}
 
 def show_match_context(txt_stream, start, end):
 
@@ -59,7 +60,10 @@ for match_case in replacements:
         elif match_case == 'SINGLE QUOTE close':
             sub_text = text[:start] + the_match.replace("'", "‘") + text[start+2:]
             mark_text = text[:start] + the_match.replace("'", "#") + text[start+2:]
-        
+        elif match_case == 'APOSTROPHE':
+            sub_text = text[:start] + the_match.replace("'", "’") + text[start+2:]
+            mark_text = text[:start] + the_match.replace("'", "#") + text[start+2:]
+
         print('\nOriginal:')
         show_match_context(text, start, end)
         print('\nÄnderung:')
@@ -81,6 +85,8 @@ n_quot_op = text.count('„')
 n_quot_cl = text.count('“')
 n_squot_op = text.count('‚')
 n_squot_cl = text.count('‘')
+old_quot = text.count('"')
+old_squot = text.count("'")
 
 if n_quot_op != n_quot_cl:
     print('\nWARNING: Mismatch found.')
@@ -91,6 +97,13 @@ if n_squot_op != n_squot_cl:
     print('\nWARNING: Mismatch found.')
     print(f'    ‚ = {n_squot_op}')
     print(f'    ‘ = {n_squot_cl}')
+
+if old_quot != 0:
+    print('\nWARNING: Some original quotes have survived.')
+    print(f'    " = {old_quot}')
+if old_squot != 0:
+    print('\nWARNING: Some original single quotes have survived.')
+    print(f'    " = {old_squot}')
 
 # final warning
 input_invalid = True
